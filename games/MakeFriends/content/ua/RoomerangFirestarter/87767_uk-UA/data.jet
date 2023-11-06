@@ -1,0 +1,26 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasScenarioAudio"
+  },
+  {
+   "t": "A",
+   "v": "scenario",
+   "n": "ScenarioAudio",
+   "s": "ІНШИЙ ГРАВЕЦЬ з'їв усе твоє полуничне варення, а банку наповнив чимось іншим."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Хто це був і що зараз у банці?"
+  }
+ ]
+}

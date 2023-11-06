@@ -1,0 +1,26 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasScenarioAudio"
+  },
+  {
+   "t": "A",
+   "v": "scenario",
+   "n": "ScenarioAudio",
+   "s": "Перед тим, як входити в будинок, ти одягнув аксесуар, який зробить тебе найкрутішим."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Що це за аксесуар?"
+  }
+ ]
+}

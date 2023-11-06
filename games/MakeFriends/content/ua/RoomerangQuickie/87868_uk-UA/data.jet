@@ -1,0 +1,26 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasScenarioAudio"
+  },
+  {
+   "t": "A",
+   "v": "scenario",
+   "n": "ScenarioAudio",
+   "s": "Всі стрибають на тарзанці з даху будинку!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Що ти прокричиш під час свого стрибка?"
+  }
+ ]
+}

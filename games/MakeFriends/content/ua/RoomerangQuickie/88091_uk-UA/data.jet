@@ -1,0 +1,26 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasScenarioAudio"
+  },
+  {
+   "t": "A",
+   "v": "scenario",
+   "n": "ScenarioAudio",
+   "s": "Перерва на каву!"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Назви своє саме складне кавове замовлення."
+  }
+ ]
+}

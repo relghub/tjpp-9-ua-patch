@@ -1,0 +1,10 @@
+{
+    "id":"Main",
+    "name":"Lineup Main",
+    "types":[
+        "LineupShortSequence",
+        "LineupLongSequence",
+        "LineupTeamNamePair",
+        "LineupTutorialSequence"
+    ]
+}

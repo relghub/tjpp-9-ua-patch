@@ -1,0 +1,26 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasScenarioAudio"
+  },
+  {
+   "t": "A",
+   "v": "scenario",
+   "n": "ScenarioAudio",
+   "s": "Усі зайнялися швидким тренуванням у тренажерному залі."
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "На чому ти зосереджений під час тренування?"
+  }
+ ]
+}

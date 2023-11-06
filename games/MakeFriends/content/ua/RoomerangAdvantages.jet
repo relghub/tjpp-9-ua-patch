@@ -1,0 +1,248 @@
+{
+    "content":
+    [
+        {
+            "id": "0",
+            "name": "winnerImmunity",
+            "text": {
+                "description": "Ти отримуєш iмунiтет вiд вибування.",
+                "effect": "У гравця {{PLAYER}} є iмунiтет."
+            },
+            "onImmunityEffects":
+            {
+                "PlayerImmunity":
+                {
+                    "targets":
+                    [
+                        "challengeWinner"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "1",
+            "name": "winnerElimination",
+            "isSoloChoice": true,
+            "text": {
+                "description": "Ти вибраєш, кого виженеш.",
+                "effect": "Чекаємо, поки {{PLAYER}} когось вижене"
+            },
+            "onEliminationEffects":
+            {
+                "ModifyEliminationVoters":
+                {
+                    "voters":
+                    [
+                        "challengeWinner"
+                    ]
+                },
+                "ModifyPlayerVoteMultiplier":
+                {
+                    "targets":
+                    [
+                        "challengeWinner"
+                    ],
+                    "multiplierValue": 2
+                }
+            }
+        },
+        {
+            "id": "2",
+            "name": "winnerProtectPlayer",
+            "text": {
+                "description": "Ти отримуєш iмунiтет i можеш захистити iшного гравця.",
+                "choosing": "Чекаємо, поки {{PLAYER}} когось захистить.",
+                "effect": "Гравець {{PLAYER}} захистив гравця.",
+                "cancelled": "Гравець {{PLAYER}} вирішив нікого не захищати."
+            },
+            "onImmunityEffects":
+            {
+                "PlayerImmunity":
+                {
+                    "targets":
+                    [
+                        "challengeWinner"
+                    ]
+                }
+            },
+            "onChoiceEffects":
+            {
+                "ProtectPlayerChoice":
+                {
+                    "choosers":
+                    [
+                        "challengeWinner"
+                    ],
+                    "choosingList":
+                    [
+                        "allPlayersNoWinner"
+                    ],
+                    "numChoices": 1
+                }
+            }
+        },
+        {
+            "id": "3",
+            "name": "winnerDoubleVoteCount",
+            "text": {
+                "description": "Твiй голос за вигнання коштує вдвiчi бiльше.",
+                "effect": "Голос гравця {{PLAYER}} коштує у два рази бiльше."
+            },
+            "onEliminationEffects":
+            {
+                "ModifyPlayerVoteMultiplier":
+                {
+                    "targets":
+                    [
+                        "challengeWinner"
+                    ],
+                    "multiplierValue": 2
+                }
+            }
+        },
+        {
+            "id": "4",
+            "name": "winnerSwapPoints",
+            "text": {
+                "description": "Помiняйся балами з iншим гравцем!",
+                "choosing": "Чекаємо, поки {{PLAYER}} обміняється балами з ким-небудь.",
+                "effect": "Гравець {{PLAYER}} помiнявся балами з гравцем {{CHOSENPLAYER}}.",
+                "cancelled": "Гравець {{PLAYER}} вирішив не мiнятися балами."
+            },
+            "applicableRounds":
+            [
+                "RoomerangQuickie",
+                "RoomerangFirestarter"
+            ],
+            "onChoiceEffects":
+            {
+                "SwapPoints":
+                {
+                    "choosers":
+                    [
+                        "challengeWinner"
+                    ],
+                    "choosingList":
+                    [
+                        "allPlayersNoWinner"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "5",
+            "name": "audienceChooseElimination",
+            "isSoloChoice": true,
+            "text": {
+                "description": "Ти отримуєш iмунiтет, а глядачi обирають, хто буде виключений.",
+                "effect": "Чекаємо, поки ГЛЯДАЧI когось виключать."
+            },
+            "isAudienceAdvantage": true,
+            "onImmunityEffects":
+            {
+                "PlayerImmunity":
+                {
+                    "targets":
+                    [
+                        "challengeWinner"
+                    ]
+                }
+            },
+            "onEliminationEffects":
+            {
+                "ModifyEliminationVoters":
+                {
+                    "voters":
+                    [
+                        "audienceVote"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "6",
+            "name": "winnerAssignmentImmunity",
+            "text": {
+                "description": "АВТОР відповіді, що перемогла І ГРАВЕЦЬ, згаданий у цій відповіді, отримують імунітет",
+                "effect": "{{PLAYER}} i {{MENTIONEDPLAYER}} отримали iмунiтет."
+            },
+            "applicableRounds":
+            [
+                "RoomerangConnection",
+                "RoomerangFirestarter"
+            ],
+            "onImmunityEffects":
+            {
+                "PlayerImmunity":
+                {
+                    "targets":
+                    [
+                        "challengeWinner",
+                        "challengeWinnerAssignment"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "7",
+            "name": "winnerEliminatesVoter",
+            "isSoloChoice": true,
+            "text": {
+                "description": "Виключiть гравця, який проголосував за вашу вiдповiдь.",
+                "effect": "Чекаємо, поки гравець {{PLAYER}} виключить когось, хто проголосував за його вiдповiдь."
+            },
+            "onImmunityEffects":
+            {
+                "PlayerImmunity":
+                {
+                    "targets":
+                    [
+                        "allPlayersNoWinnerVoters"
+                    ]
+                }
+            },
+            "onEliminationEffects":
+            {
+                "ModifyEliminationVoters":
+                {
+                    "voters":
+                    [
+                        "challengeWinner"
+                    ]
+                },
+                "ModifyPlayerVoteMultiplier":
+                {
+                    "targets":
+                    [
+                        "challengeWinner"
+                    ],
+                    "multiplierValue": 2
+                }
+            }
+        },
+        {
+            "id": "8",
+            "name": "winnerCancelsVote",
+            "text": {
+                "description": "Скасуй голос iншого гравця.",
+                "choosing": "Чекаємо, поки {{PLAYER}} скасує чийсь голос.",
+                "effect": "Гравець {{PLAYER}} скасував голос гравця {{CHOSENPLAYER}}.",
+                "cancelled": "Гравець {{PLAYER}} вирiшив не скасовувати нiчий голос."
+            },
+            "onChoiceEffects":
+            {
+                "CancelEliminationVote":
+                {
+                    "choosers":
+                    [
+                        "challengeWinner"
+                    ],
+                    "choosingList":
+                    [
+                        "allPlayersNoWinner"
+                    ]
+                }
+            }
+        }
+    ]
+}

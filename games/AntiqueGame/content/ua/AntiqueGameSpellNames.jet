@@ -1,0 +1,316 @@
+{
+ "content": [
+  {
+   "id": "92238_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "акценто"
+  },
+  {
+   "id": "92239_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "імперо"
+  },
+  {
+   "id": "92240_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "летун"
+  },
+  {
+   "id": "92241_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "нуллус"
+  },
+  {
+   "id": "92242_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "онеро"
+  },
+  {
+   "id": "92243_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "парео"
+  },
+  {
+   "id": "92244_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "профекто"
+  },
+  {
+   "id": "92245_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "сальвус"
+  },
+  {
+   "id": "92246_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "солюм"
+  },
+  {
+   "id": "92247_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "тантра"
+  },
+  {
+   "id": "92285_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "вентус"
+  },
+  {
+   "id": "92286_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "вітій"
+  },
+  {
+   "id": "92287_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "спекто"
+  },
+  {
+   "id": "92288_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "пікантний"
+  },
+  {
+   "id": "92289_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "палео"
+  },
+  {
+   "id": "92290_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "квібі"
+  },
+  {
+   "id": "92291_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "ескроу"
+  },
+  {
+   "id": "92292_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "зесті"
+  },
+  {
+   "id": "92293_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "алексіс"
+  },
+  {
+   "id": "92294_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "теранос"
+  },
+  {
+   "id": "92295_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "ексакто"
+  },
+  {
+   "id": "92296_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "пінто"
+  },
+  {
+   "id": "92297_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "боба"
+  },
+  {
+   "id": "92298_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "хончо"
+  },
+  {
+   "id": "92299_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "чунга"
+  },
+  {
+   "id": "92300_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "газебо"
+  },
+  {
+   "id": "92301_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "карбонара"
+  },
+  {
+   "id": "92302_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "віндінгс"
+  },
+  {
+   "id": "92303_uk-UA",
+   "isPrivate": true,
+   "isValid": "",
+   "name": "шинка"
+  },
+  {
+   "id": "92304_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "прошутто"
+  },
+  {
+   "id": "92305_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "дівчина-бос"
+  },
+  {
+   "id": "92306_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "каламазу"
+  },
+  {
+   "id": "92307_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "шаламет"
+  },
+  {
+   "id": "92308_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "вонанікчема"
+  },
+  {
+   "id": "92309_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "гамбургер"
+  },
+  {
+   "id": "92310_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "кон'юнктивіт"
+  },
+  {
+   "id": "92311_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "іпотеко"
+  },
+  {
+   "id": "92312_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "мітохондрії"
+  },
+  {
+   "id": "92313_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "венус"
+  },
+  {
+   "id": "92314_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "рататуй"
+  },
+  {
+   "id": "92315_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "хуллабалу"
+  },
+  {
+   "id": "92316_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "зуне"
+  },
+  {
+   "id": "92317_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "ніскайпу"
+  },
+  {
+   "id": "92318_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "аккамаракус"
+  },
+  {
+   "id": "92319_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "розковбас"
+  },
+  {
+   "id": "92320_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "бовтанка"
+  },
+  {
+   "id": "92321_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "барабарабере"
+  },
+  {
+   "id": "92322_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "кілька"
+  },
+  {
+   "id": "92323_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "амадеус"
+  },
+  {
+   "id": "92324_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "витівки"
+  },
+  {
+   "id": "92325_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "бада-бум"
+  },
+  {
+   "id": "92326_uk-UA",
+   "isPrivate": false,
+   "isValid": "",
+   "name": "експресо"
+  }
+ ]
+}

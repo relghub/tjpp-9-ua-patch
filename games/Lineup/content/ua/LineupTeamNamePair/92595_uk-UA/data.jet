@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasNameAnnouncement"
+  },
+  {
+   "t": "A",
+   "v": "nameAnnouncement",
+   "n": "NameAnnouncement",
+   "s": "\"КОМАНДА ОЛІВЕЦЬ\" і \"КОМАНДА РУЧКА\"."
+  }
+ ]
+}

@@ -1,0 +1,2972 @@
+{
+ "content": [
+  {
+   "hasAdjective": true,
+   "id": "87883_uk-UA",
+   "isValid": "",
+   "plural": "вегани",
+   "title": "веган"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87885_uk-UA",
+   "isValid": "",
+   "plural": "сантехніки",
+   "title": "сантехнік"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87886_uk-UA",
+   "isValid": "",
+   "plural": "масажисти",
+   "title": "масажист"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87887_uk-UA",
+   "isValid": "",
+   "plural": "архітектори",
+   "title": "архітектор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87888_uk-UA",
+   "isValid": "",
+   "plural": "самозайняті",
+   "title": "самозайнятий"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87889_uk-UA",
+   "isValid": "",
+   "plural": "ріелтори",
+   "title": "ріелтор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87890_uk-UA",
+   "isValid": "",
+   "plural": "наглядачі маяка",
+   "title": "наглядач маяка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87891_uk-UA",
+   "isValid": "",
+   "plural": "су-шефи",
+   "title": "су-шеф"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87892_uk-UA",
+   "isValid": "",
+   "plural": "гувернанти",
+   "title": "гувернант"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87893_uk-UA",
+   "isValid": "",
+   "plural": "флористи",
+   "title": "флорист"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87894_uk-UA",
+   "isValid": "",
+   "plural": "екстрасенси",
+   "title": "екстрасенс"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87895_uk-UA",
+   "isValid": "",
+   "plural": "інструктори по серфінгу",
+   "title": "інструктор по серфінгу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87897_uk-UA",
+   "isValid": "",
+   "plural": "бортпровідники",
+   "title": "бортпровідник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87898_uk-UA",
+   "isValid": "",
+   "plural": "модні редактори",
+   "title": "модний редактор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87899_uk-UA",
+   "isValid": "",
+   "plural": "гімнасти",
+   "title": "гімнаст"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87900_uk-UA",
+   "isValid": "",
+   "plural": "власники книжкового магазину",
+   "title": "власник книжкового магазину"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87901_uk-UA",
+   "isValid": "",
+   "plural": "охоронці готелю",
+   "title": "охоронець готелю"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87903_uk-UA",
+   "isValid": "",
+   "plural": "письменники",
+   "title": "письменник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87904_uk-UA",
+   "isValid": "",
+   "plural": "садівники",
+   "title": "садівник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87905_uk-UA",
+   "isValid": "",
+   "plural": "геологи",
+   "title": "геолог"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87906_uk-UA",
+   "isValid": "",
+   "plural": "дегустатори тортів",
+   "title": "дегустатор тортів"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87907_uk-UA",
+   "isValid": "",
+   "plural": "лісоруби",
+   "title": "лісоруб"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87908_uk-UA",
+   "isValid": "",
+   "plural": "поети",
+   "title": "поет"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87909_uk-UA",
+   "isValid": "",
+   "plural": "джазові музиканти",
+   "title": "джазовий музикант"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87910_uk-UA",
+   "isValid": "",
+   "plural": "пожежники",
+   "title": "пожежник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87911_uk-UA",
+   "isValid": "",
+   "plural": "фотомоделі",
+   "title": "фотомодель"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87912_uk-UA",
+   "isValid": "",
+   "plural": "провідники потяга",
+   "title": "провідник потяга"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87913_uk-UA",
+   "isValid": "",
+   "plural": "депутати",
+   "title": "депутат"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87914_uk-UA",
+   "isValid": "",
+   "plural": "касири",
+   "title": "касир"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87915_uk-UA",
+   "isValid": "",
+   "plural": "фермери",
+   "title": "фермер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87916_uk-UA",
+   "isValid": "",
+   "plural": "інструктори з пілатесу",
+   "title": "інструктор з пілатесу"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87918_uk-UA",
+   "isValid": "",
+   "plural": "пастухи",
+   "title": "пастух"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87919_uk-UA",
+   "isValid": "",
+   "plural": "діди морози",
+   "title": "дід мороз"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87920_uk-UA",
+   "isValid": "",
+   "plural": "детективи",
+   "title": "детиктив"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87921_uk-UA",
+   "isValid": "",
+   "plural": "вчителі англійської",
+   "title": "вчитель англійської"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87922_uk-UA",
+   "isValid": "",
+   "plural": "фельшери",
+   "title": "фельшер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87923_uk-UA",
+   "isValid": "",
+   "plural": "акробати",
+   "title": "акробат"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87925_uk-UA",
+   "isValid": "",
+   "plural": "внечурні капіталісти",
+   "title": "венчурний капіталіст"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87927_uk-UA",
+   "isValid": "",
+   "plural": "молодіжні пастори",
+   "title": "молодіжний пастор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87928_uk-UA",
+   "isValid": "",
+   "plural": "кадрові менеджери",
+   "title": "кадровий менеджер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87929_uk-UA",
+   "isValid": "",
+   "plural": "інструктори з йоги",
+   "title": "інструктор з йоги"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87930_uk-UA",
+   "isValid": "",
+   "plural": "заклиначі коней",
+   "title": "заклинач коней"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87931_uk-UA",
+   "isValid": "",
+   "plural": "бухгалтери",
+   "title": "бухгалтер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87932_uk-UA",
+   "isValid": "",
+   "plural": "судді",
+   "title": "суддя"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87933_uk-UA",
+   "isValid": "",
+   "plural": "помічники голфіста",
+   "title": "помічник гольфіста"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87934_uk-UA",
+   "isValid": "",
+   "plural": "м'ясники",
+   "title": "м'ясник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87936_uk-UA",
+   "isValid": "",
+   "plural": "візажисти",
+   "title": "візажист"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87937_uk-UA",
+   "isValid": "",
+   "plural": "фотографи",
+   "title": "фотограф"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87938_uk-UA",
+   "isValid": "",
+   "plural": "лікарі-ортопеди",
+   "title": "лікар-ортопед"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87939_uk-UA",
+   "isValid": "",
+   "plural": "стоматологи",
+   "title": "стоматолог"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87940_uk-UA",
+   "isValid": "",
+   "plural": "майстри по бутрбродам",
+   "title": "майстер по бутербродам"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87941_uk-UA",
+   "isValid": "",
+   "plural": "перемовники із заручниками",
+   "title": "перемовник із заручниками"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87942_uk-UA",
+   "isValid": "",
+   "plural": "тату-майстри",
+   "title": "тату-майстер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87943_uk-UA",
+   "isValid": "",
+   "plural": "барабанщики",
+   "title": "барабанщик"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87944_uk-UA",
+   "isValid": "",
+   "plural": "танцівники живота",
+   "title": "танцівник живота"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87945_uk-UA",
+   "isValid": "",
+   "plural": "танцівники брейку",
+   "title": "танцівник брейку"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87946_uk-UA",
+   "isValid": "",
+   "plural": "вчені",
+   "title": "вчений"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87947_uk-UA",
+   "isValid": "",
+   "plural": "ведучі кулінарного шоу",
+   "title": "ведучий кулінарного шоу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87948_uk-UA",
+   "isValid": "",
+   "plural": "мистецтвознавці",
+   "title": "мистецтвознавець"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87949_uk-UA",
+   "isValid": "",
+   "plural": "воєнні",
+   "title": "воєнний"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87950_uk-UA",
+   "isValid": "",
+   "plural": "танцівники",
+   "title": "танцівник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87951_uk-UA",
+   "isValid": "",
+   "plural": "домашні пивовари",
+   "title": "домашній пивовар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87952_uk-UA",
+   "isValid": "",
+   "plural": "готи",
+   "title": "гот"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87953_uk-UA",
+   "isValid": "",
+   "plural": "замісники вчителя",
+   "title": "замісник вчителя"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87954_uk-UA",
+   "isValid": "",
+   "plural": "контролери платної дороги",
+   "title": "контролер платної дороги"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87958_uk-UA",
+   "isValid": "",
+   "plural": "генеральні директори",
+   "title": "генеральний директор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87959_uk-UA",
+   "isValid": "",
+   "plural": "дизайнери",
+   "title": "дизайнер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87961_uk-UA",
+   "isValid": "",
+   "plural": "приймачі склотари",
+   "title": "приймач склотари"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87962_uk-UA",
+   "isValid": "",
+   "plural": "аніматори",
+   "title": "аніматор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87963_uk-UA",
+   "isValid": "",
+   "plural": "начальники в'язниць",
+   "title": "начальник в'язниці"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87964_uk-UA",
+   "isValid": "",
+   "plural": "шахраї",
+   "title": "шахрай"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87965_uk-UA",
+   "isValid": "",
+   "plural": "мисливці на снігову людину",
+   "title": "мисливець на снігову людину"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87966_uk-UA",
+   "isValid": "",
+   "plural": "скульптори льодових фігур",
+   "title": "скульптор льодяних фігур"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87967_uk-UA",
+   "isValid": "",
+   "plural": "двірники",
+   "title": "двірник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87968_uk-UA",
+   "isValid": "",
+   "plural": "гімнасти",
+   "title": "гімнаст"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87969_uk-UA",
+   "isValid": "",
+   "plural": "фокусники",
+   "title": "фокусник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87970_uk-UA",
+   "isValid": "",
+   "plural": "гіпнотизери",
+   "title": "гіпонтизер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87971_uk-UA",
+   "isValid": "",
+   "plural": "сомельє",
+   "title": "сомельє"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87972_uk-UA",
+   "isValid": "",
+   "plural": "власники кафе на колесах",
+   "title": "власник кафе на колесах"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87973_uk-UA",
+   "isValid": "",
+   "plural": "екзорцисти",
+   "title": "екзорцист"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87974_uk-UA",
+   "isValid": "",
+   "plural": "активісти",
+   "title": "активіст"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87976_uk-UA",
+   "isValid": "",
+   "plural": "кравці",
+   "title": "кравець"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87977_uk-UA",
+   "isValid": "",
+   "plural": "діджеї",
+   "title": "діджей"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87978_uk-UA",
+   "isValid": "",
+   "plural": "ведучі прогнозу погоди",
+   "title": "ведучий прогнозу погоди"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87979_uk-UA",
+   "isValid": "",
+   "plural": "дворецькі",
+   "title": "дворецький"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87980_uk-UA",
+   "isValid": "",
+   "plural": "зірки школи",
+   "title": "зірка школи"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87981_uk-UA",
+   "isValid": "",
+   "plural": "ловці собак",
+   "title": "ловець собак"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87982_uk-UA",
+   "isValid": "",
+   "plural": "дублери",
+   "title": "дублер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87983_uk-UA",
+   "isValid": "",
+   "plural": "пілоти гвинтокрила",
+   "title": "пілот гвинтокрила"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87985_uk-UA",
+   "isValid": "",
+   "plural": "шекспірівські актори",
+   "title": "шекспірівський актор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87986_uk-UA",
+   "isValid": "",
+   "plural": "ресторанні критики",
+   "title": "ресторанний критик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87987_uk-UA",
+   "isValid": "",
+   "plural": "колекціонери ляльок",
+   "title": "коллекціонер ляльок"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87988_uk-UA",
+   "isValid": "",
+   "plural": "ковалі",
+   "title": "коваль"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87989_uk-UA",
+   "isValid": "",
+   "plural": "натуральні брюнети",
+   "title": "натуральний брюнет"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87990_uk-UA",
+   "isValid": "",
+   "plural": "могильники",
+   "title": "могильник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87991_uk-UA",
+   "isValid": "",
+   "plural": "розкрадачі гробниць",
+   "title": "розкрадач гробниць"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87992_uk-UA",
+   "isValid": "",
+   "plural": "інфлюенсери",
+   "title": "інфлюенсер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87993_uk-UA",
+   "isValid": "",
+   "plural": "зірки tiktok",
+   "title": "зірка tiktok"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87994_uk-UA",
+   "isValid": "",
+   "plural": "творці контенту",
+   "title": "творець контенту"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87995_uk-UA",
+   "isValid": "",
+   "plural": "діджеї пінної вечірки",
+   "title": "дiджей пiнної вечiрки"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87996_uk-UA",
+   "isValid": "",
+   "plural": "рибаки",
+   "title": "рибак"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87997_uk-UA",
+   "isValid": "",
+   "plural": "ведучі лотереї",
+   "title": "ведучий лотереї"
+  },
+  {
+   "hasAdjective": true,
+   "id": "87998_uk-UA",
+   "isValid": "",
+   "plural": "регулювальники",
+   "title": "регулювальник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "87999_uk-UA",
+   "isValid": "",
+   "plural": "шкільні медпрацівники",
+   "title": "шкільний медпрацівник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88000_uk-UA",
+   "isValid": "",
+   "plural": "майстри манікюру",
+   "title": "майстер манікюру"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88001_uk-UA",
+   "isValid": "",
+   "plural": "дрифтери",
+   "title": "дрифтер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88002_uk-UA",
+   "isValid": "",
+   "plural": "пляжні бармени",
+   "title": "пляжний бармен"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88003_uk-UA",
+   "isValid": "",
+   "plural": "вуличні художники",
+   "title": "вуличний художник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88004_uk-UA",
+   "isValid": "",
+   "plural": "адвокати",
+   "title": "адвокат"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88005_uk-UA",
+   "isValid": "",
+   "plural": "блогери-мандрівники",
+   "title": "блогер-мандрівник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88006_uk-UA",
+   "isValid": "",
+   "plural": "персональні тренери",
+   "title": "персональний тренер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88007_uk-UA",
+   "isValid": "",
+   "plural": "сержанти стройової підготовки",
+   "title": "сержант стройової підоготовки"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88008_uk-UA",
+   "isValid": "",
+   "plural": "водолази",
+   "title": "водолаз"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88009_uk-UA",
+   "isValid": "",
+   "plural": "мисливці за скарбами",
+   "title": "мисливець за скарабми"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88010_uk-UA",
+   "isValid": "",
+   "plural": "жокеї",
+   "title": "жокей"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88196_uk-UA",
+   "isValid": "",
+   "plural": "капітани далекого плавання",
+   "title": "капітан далекого плавання"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88254_uk-UA",
+   "isValid": "",
+   "plural": "тренери особистісного розвитку",
+   "title": "тренер особистого розвитку"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88255_uk-UA",
+   "isValid": "",
+   "plural": "гіди по сафарі",
+   "title": "гід по сафарі"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88256_uk-UA",
+   "isValid": "",
+   "plural": "дресирувальники левів",
+   "title": "дресерувальник левів"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88257_uk-UA",
+   "isValid": "",
+   "plural": "ведмеді під прикриттям",
+   "title": "ведмідь під прикриттям"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88258_uk-UA",
+   "isValid": "",
+   "plural": "моделі",
+   "title": "модель"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88260_uk-UA",
+   "isValid": "",
+   "plural": "шпигуни",
+   "title": "шпигун"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88328_uk-UA",
+   "isValid": "",
+   "plural": "кондитери",
+   "title": "кондитер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88329_uk-UA",
+   "isValid": "",
+   "plural": "панк-гітаристи",
+   "title": "панк-гітарист"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88331_uk-UA",
+   "isValid": "",
+   "plural": "гіди в океанаріумі",
+   "title": "гід в океанаріумі"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88332_uk-UA",
+   "isValid": "",
+   "plural": "сталкери",
+   "title": "сталкер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88334_uk-UA",
+   "isValid": "",
+   "plural": "ковбої",
+   "title": "ковбой"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88336_uk-UA",
+   "isValid": "",
+   "plural": "бітломани",
+   "title": "бітломан"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88337_uk-UA",
+   "isValid": "",
+   "plural": "домогосподарі",
+   "title": "домогосподар"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88338_uk-UA",
+   "isValid": "",
+   "plural": "картографи",
+   "title": "картограф"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88434_uk-UA",
+   "isValid": "",
+   "plural": "кравці",
+   "title": "кравець"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88435_uk-UA",
+   "isValid": "",
+   "plural": "гуру",
+   "title": "гуру"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88436_uk-UA",
+   "isValid": "",
+   "plural": "метеорологи",
+   "title": "метеоролог"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88437_uk-UA",
+   "isValid": "",
+   "plural": "годинкарі",
+   "title": "годинкар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88438_uk-UA",
+   "isValid": "",
+   "plural": "клоуни горохові",
+   "title": "клоун гороховий"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88439_uk-UA",
+   "isValid": "",
+   "plural": "лаунж-співаки",
+   "title": "лаунж-співак"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88440_uk-UA",
+   "isValid": "",
+   "plural": "підтанцьовка",
+   "title": "підтанцьовник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88441_uk-UA",
+   "isValid": "",
+   "plural": "фізики",
+   "title": "фізик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88500_uk-UA",
+   "isValid": "",
+   "plural": "наглядачі",
+   "title": "наглядач"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88501_uk-UA",
+   "isValid": "",
+   "plural": "горіховоди",
+   "title": "горіховод"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88502_uk-UA",
+   "isValid": "",
+   "plural": "сиророби",
+   "title": "сиророб"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88503_uk-UA",
+   "isValid": "",
+   "plural": "аукціонери",
+   "title": "аукціонер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88504_uk-UA",
+   "isValid": "",
+   "plural": "манекени",
+   "title": "манекен"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88505_uk-UA",
+   "isValid": "",
+   "plural": "воєнні історики",
+   "title": "воєнний історик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88506_uk-UA",
+   "isValid": "",
+   "plural": "автори некрологів",
+   "title": "автор некрологів"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88507_uk-UA",
+   "isValid": "",
+   "plural": "тюльпановоди",
+   "title": "тюльпановод"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88508_uk-UA",
+   "isValid": "",
+   "plural": "чаклуни",
+   "title": "чаклун"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88509_uk-UA",
+   "isValid": "",
+   "plural": "грумери собак",
+   "title": "грумер собак"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88560_uk-UA",
+   "isValid": "",
+   "plural": "повари в закусочній",
+   "title": "повар в закусочній"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88561_uk-UA",
+   "isValid": "",
+   "plural": "редкатори словників",
+   "title": "редактор словників"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88562_uk-UA",
+   "isValid": "",
+   "plural": "пірати",
+   "title": "пірат"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88563_uk-UA",
+   "isValid": "",
+   "plural": "радіолюбителі",
+   "title": "радіолюбитель"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88564_uk-UA",
+   "isValid": "",
+   "plural": "шукачі талантів",
+   "title": "шукач талантів"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88565_uk-UA",
+   "isValid": "",
+   "plural": "ведучі новин",
+   "title": "ведучий новин"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88566_uk-UA",
+   "isValid": "",
+   "plural": "ведучі ток-шоу",
+   "title": "ведучий ток-шоу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88568_uk-UA",
+   "isValid": "",
+   "plural": "смузі-майстри",
+   "title": "смузі-майстер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88570_uk-UA",
+   "isValid": "",
+   "plural": "шофери",
+   "title": "шофер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88572_uk-UA",
+   "isValid": "",
+   "plural": "вуличні музиканти",
+   "title": "вуличний музикант"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88573_uk-UA",
+   "isValid": "",
+   "plural": "скелелази",
+   "title": "скелелаз"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88574_uk-UA",
+   "isValid": "",
+   "plural": "серфери",
+   "title": "серфер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88575_uk-UA",
+   "isValid": "",
+   "plural": "сімейні лікарі",
+   "title": "сімейний лікар"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88576_uk-UA",
+   "isValid": "",
+   "plural": "дерматологи",
+   "title": "дерматолог"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88577_uk-UA",
+   "isValid": "",
+   "plural": "податкові інспектори",
+   "title": "податковий інспектор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88578_uk-UA",
+   "isValid": "",
+   "plural": "фрілансери",
+   "title": "фрілансер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88606_uk-UA",
+   "isValid": "",
+   "plural": "лицарі",
+   "title": "лицар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88607_uk-UA",
+   "isValid": "",
+   "plural": "ветеринари",
+   "title": "ветеринар"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88608_uk-UA",
+   "isValid": "",
+   "plural": "генії",
+   "title": "геній"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88609_uk-UA",
+   "isValid": "",
+   "plural": "мільйонери",
+   "title": "мільйонер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88610_uk-UA",
+   "isValid": "",
+   "plural": "цікаві сусіди",
+   "title": "цікавий сусід"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88614_uk-UA",
+   "isValid": "",
+   "plural": "пліткарі",
+   "title": "пліткар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88615_uk-UA",
+   "isValid": "",
+   "plural": "хлоптуни",
+   "title": "хлоптун"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88616_uk-UA",
+   "isValid": "",
+   "plural": "контрабандисти птахів",
+   "title": "контрабандист птахів"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88617_uk-UA",
+   "isValid": "",
+   "plural": "авантюристи",
+   "title": "авантюрист"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88618_uk-UA",
+   "isValid": "",
+   "plural": "уявні друзі",
+   "title": "уявний друг"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88619_uk-UA",
+   "isValid": "",
+   "plural": "прирмари",
+   "title": "примара"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88620_uk-UA",
+   "isValid": "",
+   "plural": "поліцейські",
+   "title": "поліцейський"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88621_uk-UA",
+   "isValid": "",
+   "plural": "автоіспектори",
+   "title": "автоінспектор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88624_uk-UA",
+   "isValid": "",
+   "plural": "налаштовувачі фортепіано",
+   "title": "налаштовувач фортепіано"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88625_uk-UA",
+   "isValid": "",
+   "plural": "дельтапланеристи",
+   "title": "дельтапланерист"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88627_uk-UA",
+   "isValid": "",
+   "plural": "стилісти",
+   "title": "стиліст"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88628_uk-UA",
+   "isValid": "",
+   "plural": "інді-режисери",
+   "title": "інді-режисер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88631_uk-UA",
+   "isValid": "",
+   "plural": "вчителі інспанської",
+   "title": "вчитель іспанської"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88632_uk-UA",
+   "isValid": "",
+   "plural": "колекціонери марок",
+   "title": "колекціонер марок"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88633_uk-UA",
+   "isValid": "",
+   "plural": "бармени",
+   "title": "бармен"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88635_uk-UA",
+   "isValid": "",
+   "plural": "інструктори з їзди",
+   "title": "інструктор з їзди"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88636_uk-UA",
+   "isValid": "",
+   "plural": "спортивні тренери",
+   "title": "спортивний тренер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88637_uk-UA",
+   "isValid": "",
+   "plural": "зірки бродвею",
+   "title": "зірка бродвею"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88638_uk-UA",
+   "isValid": "",
+   "plural": "зірки мильної опери",
+   "title": "зірка мильної опери"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88640_uk-UA",
+   "isValid": "",
+   "plural": "тореадори",
+   "title": "тореадор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88641_uk-UA",
+   "isValid": "",
+   "plural": "прокурори",
+   "title": "прокурор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88642_uk-UA",
+   "isValid": "",
+   "plural": "французькі шеф-повари",
+   "title": "французький шеф-повар"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88643_uk-UA",
+   "isValid": "",
+   "plural": "мафіозі",
+   "title": "мафіозі"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88644_uk-UA",
+   "isValid": "",
+   "plural": "місіонери",
+   "title": "місіонер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88645_uk-UA",
+   "isValid": "",
+   "plural": "поп-зірки",
+   "title": "поп-зірка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88646_uk-UA",
+   "isValid": "",
+   "plural": "геймери",
+   "title": "геймер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88647_uk-UA",
+   "isValid": "",
+   "plural": "дерижери оркестру",
+   "title": "дерижер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88648_uk-UA",
+   "isValid": "",
+   "plural": "діджеї на радіо",
+   "title": "діджей на радіо"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88649_uk-UA",
+   "isValid": "",
+   "plural": "репери",
+   "title": "репер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88683_uk-UA",
+   "isValid": "",
+   "plural": "міми",
+   "title": "мім"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88784_uk-UA",
+   "isValid": "",
+   "plural": "консультанти",
+   "title": "консультант"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88824_uk-UA",
+   "isValid": "",
+   "plural": "хлопеці з братства",
+   "title": "хлопець з братства"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88826_uk-UA",
+   "isValid": "",
+   "plural": "розлучені",
+   "title": "розлучений"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88827_uk-UA",
+   "isValid": "",
+   "plural": "душі компанії",
+   "title": "душа компанії"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88828_uk-UA",
+   "isValid": "",
+   "plural": "ловці молюсків",
+   "title": "ловець молюсків"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88829_uk-UA",
+   "isValid": "",
+   "plural": "ботаніки",
+   "title": "ботанік"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88831_uk-UA",
+   "isValid": "",
+   "plural": "футбольні тренери",
+   "title": "футбольний тренер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88832_uk-UA",
+   "isValid": "",
+   "plural": "вболівальники",
+   "title": "вболівальник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88862_uk-UA",
+   "isValid": "",
+   "plural": "орнітологи",
+   "title": "орнітолог"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88863_uk-UA",
+   "isValid": "",
+   "plural": "мери",
+   "title": "мер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88864_uk-UA",
+   "isValid": "",
+   "plural": "метрдотелі",
+   "title": "метрдотель"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88866_uk-UA",
+   "isValid": "",
+   "plural": "поштарі",
+   "title": "поштар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88867_uk-UA",
+   "isValid": "",
+   "plural": "стажери без оплати",
+   "title": "стажер без оплати"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88868_uk-UA",
+   "isValid": "",
+   "plural": "директори круїзу",
+   "title": "директор круїзу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88869_uk-UA",
+   "isValid": "",
+   "plural": "перукарі",
+   "title": "перукар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88870_uk-UA",
+   "isValid": "",
+   "plural": "зомбі",
+   "title": "зомбі"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88871_uk-UA",
+   "isValid": "",
+   "plural": "міксологи",
+   "title": "міксолог"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88872_uk-UA",
+   "isValid": "",
+   "plural": "скульптори",
+   "title": "скульптор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88874_uk-UA",
+   "isValid": "",
+   "plural": "другі пілоти",
+   "title": "другий пілот"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88875_uk-UA",
+   "isValid": "",
+   "plural": "дипломати",
+   "title": "дипломат"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88876_uk-UA",
+   "isValid": "",
+   "plural": "наглядачі парку",
+   "title": "наглядач парку"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88877_uk-UA",
+   "isValid": "",
+   "plural": "майстри підземель",
+   "title": "майстер підземель"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88882_uk-UA",
+   "isValid": "",
+   "plural": "шулери",
+   "title": "шулер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88883_uk-UA",
+   "isValid": "",
+   "plural": "невдахи",
+   "title": "невдаха"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88884_uk-UA",
+   "isValid": "",
+   "plural": "мрійники",
+   "title": "мрійник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88885_uk-UA",
+   "isValid": "",
+   "plural": "повари-фритюрники",
+   "title": "повар-фритюрник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88886_uk-UA",
+   "isValid": "",
+   "plural": "кантрі-співаки",
+   "title": "кантрі-співак"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88976_uk-UA",
+   "isValid": "",
+   "plural": "мийники голови",
+   "title": "мийник голови"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88978_uk-UA",
+   "isValid": "",
+   "plural": "мандрівники в часі",
+   "title": "мандрівник в часі"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88979_uk-UA",
+   "isValid": "",
+   "plural": "шкільні клоуни",
+   "title": "шкільний клоун"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88980_uk-UA",
+   "isValid": "",
+   "plural": "ті, що біжать по лезу",
+   "title": "той, хто біжить по лезу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88982_uk-UA",
+   "isValid": "",
+   "plural": "техніки по вентиляції",
+   "title": "технік по вентиляції"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88983_uk-UA",
+   "isValid": "",
+   "plural": "судді на виставці собак",
+   "title": "суддя на виставці собак"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88984_uk-UA",
+   "isValid": "",
+   "plural": "путівники по примарах",
+   "title": "путівник по примарах"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88985_uk-UA",
+   "isValid": "",
+   "plural": "ортодонти",
+   "title": "ортодонт"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88986_uk-UA",
+   "isValid": "",
+   "plural": "провізори",
+   "title": "провізор"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88987_uk-UA",
+   "isValid": "",
+   "plural": "помічники юриста",
+   "title": "помічник юриста"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88988_uk-UA",
+   "isValid": "",
+   "plural": "ляльководи",
+   "title": "ляльковод"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88989_uk-UA",
+   "isValid": "",
+   "plural": "двійники елвіса преслі",
+   "title": "двійник елвіса преслі"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88990_uk-UA",
+   "isValid": "",
+   "plural": "баристи",
+   "title": "бариста"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88991_uk-UA",
+   "isValid": "",
+   "plural": "потрійна загроза",
+   "title": "потрійна загроза"
+  },
+  {
+   "hasAdjective": true,
+   "id": "88992_uk-UA",
+   "isValid": "",
+   "plural": "алхіміки",
+   "title": "алхімік"
+  },
+  {
+   "hasAdjective": false,
+   "id": "88993_uk-UA",
+   "isValid": "",
+   "plural": "лічільники бобів",
+   "title": "лічільник бобів"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89014_uk-UA",
+   "isValid": "",
+   "plural": "колекціонери мистецтва",
+   "title": "колекціонер мистецтва"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89016_uk-UA",
+   "isValid": "",
+   "plural": "капітани субмарини",
+   "title": "капітан субамарини"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89017_uk-UA",
+   "isValid": "",
+   "plural": "маслобійники",
+   "title": "маслобійник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89018_uk-UA",
+   "isValid": "",
+   "plural": "часниководи",
+   "title": "часниковод"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89019_uk-UA",
+   "isValid": "",
+   "plural": "склодуви",
+   "title": "склодув"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89020_uk-UA",
+   "isValid": "",
+   "plural": "шатарі",
+   "title": "шахтар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89051_uk-UA",
+   "isValid": "",
+   "plural": "ловці кротів",
+   "title": "ловець кротів"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89054_uk-UA",
+   "isValid": "",
+   "plural": "директори фреми",
+   "title": "директор ферми"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89086_uk-UA",
+   "isValid": "",
+   "plural": "заклиначі змій",
+   "title": "заклинач змій"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89087_uk-UA",
+   "isValid": "",
+   "plural": "вантажники в порту",
+   "title": "вантажник в порту"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89088_uk-UA",
+   "isValid": "",
+   "plural": "роботи",
+   "title": "робот"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89089_uk-UA",
+   "isValid": "",
+   "plural": "птахи",
+   "title": "пташка"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89090_uk-UA",
+   "isValid": "",
+   "plural": "космонавти",
+   "title": "космонавт"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89091_uk-UA",
+   "isValid": "",
+   "plural": "живі легенди",
+   "title": "жива легенда"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89092_uk-UA",
+   "isValid": "",
+   "plural": "звичайні люди",
+   "title": "звичайна людина"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89093_uk-UA",
+   "isValid": "",
+   "plural": "кінокритики",
+   "title": "кінокритик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89094_uk-UA",
+   "isValid": "",
+   "plural": "хоббіти",
+   "title": "хоббіт"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89095_uk-UA",
+   "isValid": "",
+   "plural": "директори",
+   "title": "директор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89096_uk-UA",
+   "isValid": "",
+   "plural": "ведучий подкасту",
+   "title": "ведучий подкасту"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89097_uk-UA",
+   "isValid": "",
+   "plural": "злодії",
+   "title": "злодій"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89098_uk-UA",
+   "isValid": "",
+   "plural": "фанати \"маски\"",
+   "title": "фанат \"маски\""
+  },
+  {
+   "hasAdjective": true,
+   "id": "89164_uk-UA",
+   "isValid": "",
+   "plural": "кур'єри",
+   "title": "кур'єр"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89165_uk-UA",
+   "isValid": "",
+   "plural": "жонглери",
+   "title": "жонглер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89166_uk-UA",
+   "isValid": "",
+   "plural": "флейтисти",
+   "title": "флейтист"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89167_uk-UA",
+   "isValid": "",
+   "plural": "тренери по серфінгу",
+   "title": "тренер по серфінгу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89169_uk-UA",
+   "isValid": "",
+   "plural": "буфетчики",
+   "title": "буфетчик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89170_uk-UA",
+   "isValid": "",
+   "plural": "зірки водевілю",
+   "title": "зірка водевілю"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89171_uk-UA",
+   "isValid": "",
+   "plural": "блазні на ярмарці",
+   "title": "блазень на ярмарку"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89172_uk-UA",
+   "isValid": "",
+   "plural": "актори з реклами",
+   "title": "актор з реклами"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89173_uk-UA",
+   "isValid": "",
+   "plural": "продавці",
+   "title": "продавець"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89192_uk-UA",
+   "isValid": "",
+   "plural": "скитальці",
+   "title": "скиталець"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89194_uk-UA",
+   "isValid": "",
+   "plural": "давні душі",
+   "title": "давня душа"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89195_uk-UA",
+   "isValid": "",
+   "plural": "діти",
+   "title": "дитина"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89197_uk-UA",
+   "isValid": "",
+   "plural": "цілителі",
+   "title": "цілитель"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89198_uk-UA",
+   "isValid": "",
+   "plural": "свідки",
+   "title": "свідок"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89199_uk-UA",
+   "isValid": "",
+   "plural": "мандрівники",
+   "title": "мандрівник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89310_uk-UA",
+   "isValid": "",
+   "plural": "стоматологи-гігієністи",
+   "title": "стоматолог-гігеєніст"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89311_uk-UA",
+   "isValid": "",
+   "plural": "садівники",
+   "title": "садівник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89313_uk-UA",
+   "isValid": "",
+   "plural": "директори шкіл",
+   "title": "директор школи"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89314_uk-UA",
+   "isValid": "",
+   "plural": "муляри",
+   "title": "муляр"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89325_uk-UA",
+   "isValid": "",
+   "plural": "мільярдери",
+   "title": "мільярдер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89326_uk-UA",
+   "isValid": "",
+   "plural": "фінансові консультанти",
+   "title": "фінансовий консультант"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89327_uk-UA",
+   "isValid": "",
+   "plural": "інструктори по медитації",
+   "title": "інструктор по медитації"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89330_uk-UA",
+   "isValid": "",
+   "plural": "інструктори по риболовлі",
+   "title": "інструктор по риболовлі"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89408_uk-UA",
+   "isValid": "",
+   "plural": "темні конячки",
+   "title": "темна конячка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89423_uk-UA",
+   "isValid": "",
+   "plural": "добрі самарянини",
+   "title": "добрий самарянин"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89424_uk-UA",
+   "isValid": "",
+   "plural": "бунтарі",
+   "title": "бунтар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89426_uk-UA",
+   "isValid": "",
+   "plural": "фальшиві лікарі",
+   "title": "фальшивий лікар"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89427_uk-UA",
+   "isValid": "",
+   "plural": "близнюки",
+   "title": "близнюк"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89429_uk-UA",
+   "isValid": "",
+   "plural": "письменники романів",
+   "title": "письменник романів"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89431_uk-UA",
+   "isValid": "",
+   "plural": "актори озвучення трейлерів",
+   "title": "актор озвучення трейлерів"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89432_uk-UA",
+   "isValid": "",
+   "plural": "хореографи",
+   "title": "хореограф"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89445_uk-UA",
+   "isValid": "",
+   "plural": "напарники",
+   "title": "напарник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89446_uk-UA",
+   "isValid": "",
+   "plural": "романтики",
+   "title": "романтик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89447_uk-UA",
+   "isValid": "",
+   "plural": "буркотуни",
+   "title": "буркотун"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89491_uk-UA",
+   "isValid": "",
+   "plural": "опікуни",
+   "title": "опікун"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89492_uk-UA",
+   "isValid": "",
+   "plural": "гіпер-опікуни",
+   "title": "гіпер-опікун"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89493_uk-UA",
+   "isValid": "",
+   "plural": "песимісти",
+   "title": "песиміст"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89494_uk-UA",
+   "isValid": "",
+   "plural": "безпритульні",
+   "title": "безпритульний"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89495_uk-UA",
+   "isValid": "",
+   "plural": "авторитети",
+   "title": "авторитет"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89496_uk-UA",
+   "isValid": "",
+   "plural": "стукачі",
+   "title": "стукач"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89764_uk-UA",
+   "isValid": "",
+   "plural": "циніки",
+   "title": "цинік"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89783_uk-UA",
+   "isValid": "",
+   "plural": "плакси",
+   "title": "плакса"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89785_uk-UA",
+   "isValid": "",
+   "plural": "гості",
+   "title": "гість"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89786_uk-UA",
+   "isValid": "",
+   "plural": "судді",
+   "title": "суддя"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89909_uk-UA",
+   "isValid": "",
+   "plural": "сноби",
+   "title": "сноб"
+  },
+  {
+   "hasAdjective": true,
+   "id": "89911_uk-UA",
+   "isValid": "",
+   "plural": "піонери",
+   "title": "піонер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89912_uk-UA",
+   "isValid": "",
+   "plural": "задавачі трендів",
+   "title": "задавач трендів"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89914_uk-UA",
+   "isValid": "",
+   "plural": "ботани",
+   "title": "ботан"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89915_uk-UA",
+   "isValid": "",
+   "plural": "ніжні квіти",
+   "title": "ніжна квітка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89997_uk-UA",
+   "isValid": "",
+   "plural": "театрали",
+   "title": "театрал"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89998_uk-UA",
+   "isValid": "",
+   "plural": "селюки",
+   "title": "селюк"
+  },
+  {
+   "hasAdjective": false,
+   "id": "89999_uk-UA",
+   "isValid": "",
+   "plural": "милі пиріжки",
+   "title": "милий пиріжок"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90001_uk-UA",
+   "isValid": "",
+   "plural": "пожиттєві студенти",
+   "title": "пожиттєвий студент"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90002_uk-UA",
+   "isValid": "",
+   "plural": "помічники",
+   "title": "помічник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90005_uk-UA",
+   "isValid": "",
+   "plural": "чарівники",
+   "title": "чарівник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90006_uk-UA",
+   "isValid": "",
+   "plural": "ведучі кулінарного шоу",
+   "title": "ведучий кулінарного шоу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90007_uk-UA",
+   "isValid": "",
+   "plural": "доглядальниці",
+   "title": "доглядальниця"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90008_uk-UA",
+   "isValid": "",
+   "plural": "вбивці",
+   "title": "вбивця"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90009_uk-UA",
+   "isValid": "",
+   "plural": "спортсмени-екстремали",
+   "title": "спортсмен-екстремал"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90065_uk-UA",
+   "isValid": "",
+   "plural": "негідники",
+   "title": "негідник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90066_uk-UA",
+   "isValid": "",
+   "plural": "волоцюги",
+   "title": "волоцюга"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90095_uk-UA",
+   "isValid": "",
+   "plural": "наглядачі",
+   "title": "наглядач"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90096_uk-UA",
+   "isValid": "",
+   "plural": "рибаки-аматори",
+   "title": "рибак-аматор"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90139_uk-UA",
+   "isValid": "",
+   "plural": "рок-зірки",
+   "title": "рок-зірка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90140_uk-UA",
+   "isValid": "",
+   "plural": "гравці",
+   "title": "гравець"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90141_uk-UA",
+   "isValid": "",
+   "plural": "дільці",
+   "title": "ділець"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90142_uk-UA",
+   "isValid": "",
+   "plural": "батьки",
+   "title": "батько"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90143_uk-UA",
+   "isValid": "",
+   "plural": "крадії ювелірних виробів",
+   "title": "крадій ювелірних виробів"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90144_uk-UA",
+   "isValid": "",
+   "plural": "плюшевий ведмедик",
+   "title": "плюшевий ведмедик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90145_uk-UA",
+   "isValid": "",
+   "plural": "фараон",
+   "title": "фараон"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90146_uk-UA",
+   "isValid": "",
+   "plural": "хірурги",
+   "title": "хірург"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90147_uk-UA",
+   "isValid": "",
+   "plural": "лікарі",
+   "title": "лікар"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90148_uk-UA",
+   "isValid": "",
+   "plural": "вожаті",
+   "title": "вожатий"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90149_uk-UA",
+   "isValid": "",
+   "plural": "джини",
+   "title": "джин"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90153_uk-UA",
+   "isValid": "",
+   "plural": "математики",
+   "title": "математик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90272_uk-UA",
+   "isValid": "",
+   "plural": "боягузи",
+   "title": "боягуз"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90273_uk-UA",
+   "isValid": "",
+   "plural": "офіціанти",
+   "title": "офіціант"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90274_uk-UA",
+   "isValid": "",
+   "plural": "фандрайзери",
+   "title": "фандрайзер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90275_uk-UA",
+   "isValid": "",
+   "plural": "недоучки",
+   "title": "недоучка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90276_uk-UA",
+   "isValid": "",
+   "plural": "різноробочі",
+   "title": "різноробочий"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90277_uk-UA",
+   "isValid": "",
+   "plural": "няні",
+   "title": "няня"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90278_uk-UA",
+   "isValid": "",
+   "plural": "дурні",
+   "title": "дурень"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90287_uk-UA",
+   "isValid": "",
+   "plural": "графісти",
+   "title": "графіст"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90288_uk-UA",
+   "isValid": "",
+   "plural": "ведучі ігрових шоу",
+   "title": "ведучий ігрового шоу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90289_uk-UA",
+   "isValid": "",
+   "plural": "свистуни",
+   "title": "свистун"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90290_uk-UA",
+   "isValid": "",
+   "plural": "робітники хлібозаводу",
+   "title": "робітник хлібозаводу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90291_uk-UA",
+   "isValid": "",
+   "plural": "заводили",
+   "title": "заводила"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90292_uk-UA",
+   "isValid": "",
+   "plural": "люди-катастрофа",
+   "title": "людина-катастрофа"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90293_uk-UA",
+   "isValid": "",
+   "plural": "оліпійські надії",
+   "title": "олімпійська надія"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90295_uk-UA",
+   "isValid": "",
+   "plural": "бодібілдери",
+   "title": "бодібілдер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90296_uk-UA",
+   "isValid": "",
+   "plural": "люди вихідного дня",
+   "title": "людина вихідного дня"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90297_uk-UA",
+   "isValid": "",
+   "plural": "інструктори по дайвінгу",
+   "title": "інструктор по дайвінгу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90298_uk-UA",
+   "isValid": "",
+   "plural": "болотні істоти",
+   "title": "болотна істота"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90299_uk-UA",
+   "isValid": "",
+   "plural": "оперні співаки",
+   "title": "оперний співак"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90300_uk-UA",
+   "isValid": "",
+   "plural": "співаки а капела",
+   "title": "співак а капела"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90301_uk-UA",
+   "isValid": "",
+   "plural": "регіональні менеджери",
+   "title": "регіональний менеджер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90303_uk-UA",
+   "isValid": "",
+   "plural": "чоловіки знаменитості",
+   "title": "чоловік знаменитості"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90304_uk-UA",
+   "isValid": "",
+   "plural": "президенти",
+   "title": "президент"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90306_uk-UA",
+   "isValid": "",
+   "plural": "складні діти",
+   "title": "складна дитина"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90307_uk-UA",
+   "isValid": "",
+   "plural": "майстер слова",
+   "title": "майстер слова"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90386_uk-UA",
+   "isValid": "",
+   "plural": "твариноводи",
+   "title": "твариновод"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90388_uk-UA",
+   "isValid": "",
+   "plural": "вільні духом",
+   "title": "вільний дух"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90389_uk-UA",
+   "isValid": "",
+   "plural": "трубочисти",
+   "title": "трубочист"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90401_uk-UA",
+   "isValid": "",
+   "plural": "розмазня",
+   "title": "розмазня"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90402_uk-UA",
+   "isValid": "",
+   "plural": "інтроверти",
+   "title": "інтроверт"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90403_uk-UA",
+   "isValid": "",
+   "plural": "екстраверти",
+   "title": "екстроверт"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90438_uk-UA",
+   "isValid": "",
+   "plural": "божевільні матусі",
+   "title": "божевільна мати"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90440_uk-UA",
+   "isValid": "",
+   "plural": "підлітки",
+   "title": "підліток"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90441_uk-UA",
+   "isValid": "",
+   "plural": "нормальні люди",
+   "title": "нормальна людина"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90443_uk-UA",
+   "isValid": "",
+   "plural": "відповідальні батьки",
+   "title": "відповідальний батько"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90444_uk-UA",
+   "isValid": "",
+   "plural": "кіномани",
+   "title": "кіноман"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90445_uk-UA",
+   "isValid": "",
+   "plural": "виконавці джазу",
+   "title": "виконавець джазу"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90446_uk-UA",
+   "isValid": "",
+   "plural": "недоторки",
+   "title": "недоторка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90447_uk-UA",
+   "isValid": "",
+   "plural": "м'ясоїди",
+   "title": "м'ясоїд"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90448_uk-UA",
+   "isValid": "",
+   "plural": "європейці",
+   "title": "європеєць"
+  },
+  {
+   "hasAdjective": true,
+   "id": "90493_uk-UA",
+   "isValid": "",
+   "plural": "хвальки",
+   "title": "хвалько"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90582_uk-UA",
+   "isValid": "",
+   "plural": "милашки",
+   "title": "милашка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90652_uk-UA",
+   "isValid": "",
+   "plural": "коллекціонери ложок",
+   "title": "колекціонер ложок"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90783_uk-UA",
+   "isValid": "",
+   "plural": "виробники сидру",
+   "title": "виробник сидру"
+  },
+  {
+   "hasAdjective": false,
+   "id": "90815_uk-UA",
+   "isValid": "",
+   "plural": "друзі",
+   "title": "друг"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91053_uk-UA",
+   "isValid": "",
+   "plural": "інтриганти",
+   "title": "інтригант"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91107_uk-UA",
+   "isValid": "",
+   "plural": "приватні детективи",
+   "title": "приватний детектив"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91108_uk-UA",
+   "isValid": "",
+   "plural": "придворні блазні",
+   "title": "придворний блазень"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91109_uk-UA",
+   "isValid": "",
+   "plural": "простачки",
+   "title": "простачка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91110_uk-UA",
+   "isValid": "",
+   "plural": "психоаналітики",
+   "title": "психоаналітик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91170_uk-UA",
+   "isValid": "",
+   "plural": "ненависники",
+   "title": "ненавистник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91173_uk-UA",
+   "isValid": "",
+   "plural": "пекарі",
+   "title": "пекар"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91174_uk-UA",
+   "isValid": "",
+   "plural": "банкіри",
+   "title": "банкір"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91175_uk-UA",
+   "isValid": "",
+   "plural": "коміки",
+   "title": "комік"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91176_uk-UA",
+   "isValid": "",
+   "plural": "снігові люди",
+   "title": "снігова людина"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91178_uk-UA",
+   "isValid": "",
+   "plural": "театральні консультанти",
+   "title": "театральний консультант"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91181_uk-UA",
+   "isValid": "",
+   "plural": "черевомовники",
+   "title": "черевомовник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91182_uk-UA",
+   "isValid": "",
+   "plural": "пікапери",
+   "title": "пікапер"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91183_uk-UA",
+   "isValid": "",
+   "plural": "сокільничі",
+   "title": "сокільничий"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91395_uk-UA",
+   "isValid": "",
+   "plural": "лепрекони",
+   "title": "лепрекон"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91398_uk-UA",
+   "isValid": "",
+   "plural": "учні",
+   "title": "учень"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91399_uk-UA",
+   "isValid": "",
+   "plural": "відьми",
+   "title": "відьма"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91400_uk-UA",
+   "isValid": "",
+   "plural": "місцеві адвокати",
+   "title": "місцевий адвокат"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91401_uk-UA",
+   "isValid": "",
+   "plural": "рекламники",
+   "title": "рекламник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91445_uk-UA",
+   "isValid": "",
+   "plural": "вовки-одинаки",
+   "title": "вовк-одинак"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91510_uk-UA",
+   "isValid": "",
+   "plural": "професіональні їдці",
+   "title": "професійний їдець"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91511_uk-UA",
+   "isValid": "",
+   "plural": "прибиральники",
+   "title": "прибиральник"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91513_uk-UA",
+   "isValid": "",
+   "plural": "теслярі",
+   "title": "тесляр"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91517_uk-UA",
+   "isValid": "",
+   "plural": "політики",
+   "title": "політик"
+  },
+  {
+   "hasAdjective": true,
+   "id": "91518_uk-UA",
+   "isValid": "",
+   "plural": "землевласники",
+   "title": "землевласник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91607_uk-UA",
+   "isValid": "",
+   "plural": "бджоляри",
+   "title": "бджоляр"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91608_uk-UA",
+   "isValid": "",
+   "plural": "секретні агенти",
+   "title": "секретний агент"
+  },
+  {
+   "hasAdjective": false,
+   "id": "91609_uk-UA",
+   "isValid": "",
+   "plural": "піонери",
+   "title": "піонер"
+  },
+  {
+   "hasAdjective": false,
+   "id": "92332_uk-UA",
+   "isValid": "",
+   "plural": "простолюди",
+   "title": "простолюдин"
+  },
+  {
+   "hasAdjective": false,
+   "id": "92377_uk-UA",
+   "isValid": "",
+   "plural": "кошатники",
+   "title": "кошатник"
+  },
+  {
+   "hasAdjective": false,
+   "id": "92378_uk-UA",
+   "isValid": "",
+   "plural": "кінестетеки",
+   "title": "кінестетик"
+  },
+  {
+   "hasAdjective": false,
+   "id": "92543_uk-UA",
+   "isValid": "",
+   "plural": "рольлові моделі",
+   "title": "рольова модель"
+  },
+  {
+   "hasAdjective": false,
+   "id": "92544_uk-UA",
+   "isValid": "",
+   "plural": "герої",
+   "title": "герой"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93220_uk-UA",
+   "isValid": "",
+   "plural": "бабусі",
+   "title": "бабуся"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93221_uk-UA",
+   "isValid": "",
+   "plural": "дідусі",
+   "title": "дідусь"
+  },
+  {
+   "hasAdjective": true,
+   "id": "93222_uk-UA",
+   "isValid": "",
+   "plural": "дядьки",
+   "title": "дядько"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93223_uk-UA",
+   "isValid": "",
+   "plural": "тітки",
+   "title": "тітка"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93224_uk-UA",
+   "isValid": "",
+   "plural": "скорпіони",
+   "title": "скорпіон"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93236_uk-UA",
+   "isValid": "",
+   "plural": "нечупари",
+   "title": "нечупара"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93318_uk-UA",
+   "isValid": "",
+   "plural": "емпати",
+   "title": "емпат"
+  },
+  {
+   "hasAdjective": false,
+   "id": "93765_uk-UA",
+   "isValid": "",
+   "plural": "зануди",
+   "title": "зануда"
+  }
+ ]
+}

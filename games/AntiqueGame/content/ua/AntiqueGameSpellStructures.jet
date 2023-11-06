@@ -1,0 +1,84 @@
+{
+ "content": [
+  {
+   "id": "92229_uk-UA",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_uk-UA"
+    }
+   ],
+   "structure": "Може обернути вас на {{BLANK}}"
+  },
+  {
+   "id": "92230_uk-UA",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_uk-UA"
+    }
+   ],
+   "structure": "Допоможе перемогти {{BLANK}}"
+  },
+  {
+   "id": "92231_uk-UA",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92505_uk-UA"
+    }
+   ],
+   "structure": "Робить вас схожими на {{BLANK}}"
+  },
+  {
+   "id": "92232_uk-UA",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92328_uk-UA"
+    }
+   ],
+   "structure": "Затоплює {{BLANK}}"
+  },
+  {
+   "id": "92233_uk-UA",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_uk-UA"
+    }
+   ],
+   "structure": "Викликає {{BLANK}}"
+  },
+  {
+   "id": "92234_uk-UA",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93219_uk-UA"
+    }
+   ],
+   "structure": "Дає вам силу {{BLANK}}"
+  },
+  {
+   "id": "92235_uk-UA",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "93225_uk-UA"
+    }
+   ],
+   "structure": "Робить вашого ворога {{BLANK}}"
+  },
+  {
+   "id": "92237_uk-UA",
+   "isValid": "",
+   "replacements": [
+    {
+     "nounsId": "92327_uk-UA"
+    }
+   ],
+   "structure": "Підкладе {{BLANK}} у кишені ваших ворогів"
+  }
+ ]
+}

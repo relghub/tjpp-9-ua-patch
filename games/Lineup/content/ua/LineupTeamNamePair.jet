@@ -1,0 +1,1327 @@
+{
+ "content": [
+  {
+   "countrySpecific": false,
+   "id": "92560_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МЛИНЕЦЬ",
+   "teamTwo": "КОМАНДА ОМЛЕТ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МЛИНЕЦЬ\" і \"КОМАНДА ОМЛЕТ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92561_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПАМПУШКА",
+   "teamTwo": "КОМАНДА КЕКС",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПАМПУШКА\" і \"КОМАНДА КЕКС\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92562_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА З ГАЗОМ",
+   "teamTwo": "КОМАНДА БЕЗ ГАЗУ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА З ГАЗОМ\" і \"КОМАНДА БЕЗ ГАЗУ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92563_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КАЧКА",
+   "teamTwo": "КОМАНДА ГУСКА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КАЧКА\" і \"КОМАНДА ГУСКА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92564_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ГЕРОЇВ",
+   "teamTwo": "КОМАНДА ЗЛОДІЇВ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ГЕРОЇВ\" і \"КОМАНДА ЗЛОДІЇВ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92565_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА \"VIP ТЕРНОПІЛЬ\"",
+   "teamTwo": "КОМАНДА СЕРГІЯ ПРИТУЛИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА \"VIP ТЕРНОПІЛЬ\"\" і \"КОМАНДА СЕРГІЯ ПРИТУЛИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92566_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПІП",
+   "teamTwo": "КОМАНДА ПУП",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПІП\" і \"КОМАНДА ПУП\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92567_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СВЕКРУХА",
+   "teamTwo": "КОМАНДА ТЕЩА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СВЕКРУХА\" і \"КОМАНДА ТЕЩА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92568_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ОЛАДКИ",
+   "teamTwo": "КОМАНДА СИРНИКИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ОЛАДКИ\" і \"КОМАНДА СИРНИКИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92569_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЕЛІТА",
+   "teamTwo": "КОМАНДА ПОЛТАВА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЕЛІТА\" і \"КОМАНДА ПОЛТАВА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92570_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ДОБРИЙ ВЕЧІР",
+   "teamTwo": "КОМАНДА ДАЙ БОЖЕ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ДОБРИЙ ВЕЧІР\" і \"КОМАНДА ДАЙ БОЖЕ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92571_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТРОТУАР",
+   "teamTwo": "КОМАНДА ДОРОГА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТРОТУАР\" і \"КОМАНДА ДОРОГА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92572_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА НУ-НУ",
+   "teamTwo": "КОМАНДА НІ-НІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА НУ-НУ\" і \"КОМАНДА НІ-НІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92573_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ВОЛОГІ",
+   "teamTwo": "КОМАНДА СУХІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ВОЛОГІ\" і \"КОМАНДА СУХІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92574_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ДЗВУНКИ",
+   "teamTwo": "КОМАНДА ПІКИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ДЗВУНКИ\" і \"КОМАНДА ПІКИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92575_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА НА КЕФІРІ",
+   "teamTwo": "КОМАНДА НА КВАСІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА НА КЕФІРІ\" і \"КОМАНДА НА КВАСІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92576_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МРІЯ",
+   "teamTwo": "КОМАНДА ЖАХ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МРІЯ\" і \"КОМАНДА ЖАХ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92577_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ІХІХІ",
+   "teamTwo": "КОМАНДА АХАХА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ІХІХІ\" і \"КОМАНДА АХАХА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92578_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА УПС",
+   "teamTwo": "КОМАНДА ЙОЙ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА УПС\" і \"КОМАНДА ЙОЙ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92579_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЯЛОВИЧИНА",
+   "teamTwo": "КОМАНДА КУРЯТИНА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЯЛОВИЧИНА\" і \"КОМАНДА КУРЯТИНА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92580_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЛОРДИ",
+   "teamTwo": "КОМАНДА ГРАФИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЛОРДИ\" і \"КОМАНДА ГРАФИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92581_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СПАГЕТІ",
+   "teamTwo": "КОМАНДА ЛАГМАН",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СПАГЕТІ\" і \"КОМАНДА ЛАГМАН\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92582_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ХОТ-ДОГ",
+   "teamTwo": "КОМАНДА БУРГЕР",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ХОТ-ДОГ\" і \"КОМАНДА БУРГЕР\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92583_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ДУШОВА",
+   "teamTwo": "КОМАНДА ВАННА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ДУШОВА\" і \"КОМАНДА ВАННА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92584_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ВОГОНЬ",
+   "teamTwo": "КОМАНДА ЛІД",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ВОГОНЬ\" і \"КОМАНДА ЛІД\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92585_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТАРТАН",
+   "teamTwo": "КОМАНДА АРГАЙЛ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТАРТАН\" і \"КОМАНДА АРГАЙЛ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92586_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СІМЕЙНИКИ",
+   "teamTwo": "КОМАНДА ПАНТАЛОНИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СІМЕЙНИКИ\" і \"КОМАНДА ПАНТАЛОНИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92587_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА АДВОКАТ",
+   "teamTwo": "КОМАНДА ПРОКУРОР",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА АДВОКАТ\" і \"КОМАНДА ПРОКУРОР\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92588_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ВИЛКА",
+   "teamTwo": "КОМАНДА ЛОЖКА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ВИЛКА\" і \"КОМАНДА ЛОЖКА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92589_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЦИБУЛЬКА",
+   "teamTwo": "КОМАНДА ЧАСНИЧОК",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЦИБУЛЬКА\" і \"КОМАНДА ЧАСНИЧОК\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92590_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ХІП-ХОП",
+   "teamTwo": "КОМАНДА АР-ЕН-БІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ХІП-ХОП\" і \"КОМАНДА АР-ЕН-БІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92591_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЧУХ-ЧУХ",
+   "teamTwo": "КОМАНДА ВРУМ-ВРУМ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЧУХ-ЧУХ\" і \"КОМАНДА ВРУМ-ВРУМ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92592_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПУК",
+   "teamTwo": "КОМАНДА РИГ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПУК\" і \"КОМАНДА РИГ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92593_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ШВЕЦЬ",
+   "teamTwo": "КОМАНДА КРАВЧИНІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ШВЕЦЬ\" і \"КОМАНДА КРАВЧИНІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92594_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ВАМПІР",
+   "teamTwo": "КОМАНДА ПЕРЕВЕРТНІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ВАМПІР\" і \"КОМАНДА ПЕРЕВЕРТНІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92595_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ОЛІВЕЦЬ",
+   "teamTwo": "КОМАНДА РУЧКА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ОЛІВЕЦЬ\" і \"КОМАНДА РУЧКА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92596_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА РОБОТ",
+   "teamTwo": "КОМАНДА ДИНОЗАВР",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА РОБОТ\" і \"КОМАНДА ДИНОЗАВР\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92597_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА БЕЕЕ",
+   "teamTwo": "КОМАНДА МУУУ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА БЕЕЕ\" і \"КОМАНДА МУУУ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92598_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА БАБА ЯГА",
+   "teamTwo": "КОМАНДА ЧАХЛИК",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА БАБА ЯГА\" і \"КОМАНДА ЧАХЛИК\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92599_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ВАВА",
+   "teamTwo": "КОМАНДА БОБО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ВАВА\" і \"КОМАНДА БОБО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92600_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА САНДАЛІ",
+   "teamTwo": "КОМАНДА МЕШТИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА САНДАЛІ\" і \"КОМАНДА МЕШТИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92601_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МИГДАЛЬ",
+   "teamTwo": "КОМАНДА ЖЕЛЕ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МИГДАЛЬ\" і \"КОМАНДА ЖЕЛЕ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92602_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА БАНАНИ",
+   "teamTwo": "КОМАНДА АПЕЛЬСИНИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА БАНАНИ\" і \"КОМАНДА АПЕЛЬСИНИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92603_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КЕТЧУП",
+   "teamTwo": "КОМАНДА МАЙОНЕЗ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КЕТЧУП\" і \"КОМАНДА МАЙОНЕЗ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92604_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА БУЛЬДОГ",
+   "teamTwo": "КОМАНДА КАШТАН",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА БУЛЬДОГ\" і \"КОМАНДА КАШТАН\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92605_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА З СОБОЮ",
+   "teamTwo": "КОМАНДА ТУТ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА З СОБОЮ\" і \"КОМАНДА ТУТ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92606_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТОРТ",
+   "teamTwo": "КОМАНДА МОРОЗИВО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТОРТ\" і \"КОМАНДА МОРОЗИВО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92607_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПЛЯЖІ",
+   "teamTwo": "КОМАНДА ГОРИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПЛЯЖІ\" і \"КОМАНДА ГОРИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92608_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МИША",
+   "teamTwo": "КОМАНДА СИР",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МИША\" і \"КОМАНДА СИР\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92609_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЛОЛ",
+   "teamTwo": "КОМАНДА КЕК",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЛОЛ\" і \"КОМАНДА КЕК\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92610_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СІК",
+   "teamTwo": "КОМАНДА ЛИМОНАД",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СІК\" і \"КОМАНДА ЛИМОНАД\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92611_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СОЛОДКІ",
+   "teamTwo": "КОМАНДА КИСЛІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СОЛОДКІ\" і \"КОМАНДА КИСЛІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92612_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА АКОРДЕОН",
+   "teamTwo": "КОМАНДА КЛАВІТАРА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА АКОРДЕОН\" і \"КОМАНДА КЛАВІТАРА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92613_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА САКСОФОН",
+   "teamTwo": "КОМАНДА ВІОЛОНЧЕЛЬ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА САКСОФОН\" і \"КОМАНДА ВІОЛОНЧЕЛЬ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92614_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КРУГ",
+   "teamTwo": "КОМАНДА ТРИКУТНИК",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КРУГ\" і \"КОМАНДА ТРИКУТНИК\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92615_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КАПУЧИНО",
+   "teamTwo": "КОМАНДА ЕСПРЕССО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КАПУЧИНО\" і \"КОМАНДА ЕСПРЕССО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92616_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МІШУРА",
+   "teamTwo": "КОМАНДА ГІРЛЯНДА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МІШУРА\" і \"КОМАНДА ГІРЛЯНДА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92617_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЗЕМЛЯНИ",
+   "teamTwo": "КОМАНДА ПРИБУЛЬЦІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЗЕМЛЯНИ\" і \"КОМАНДА ПРИБУЛЬЦІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92618_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЛУКАШИН",
+   "teamTwo": "КОМАНДА ІППОЛИТ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЛУКАШИН\" і \"КОМАНДА ІППОЛИТ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92619_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ДЮШЕС",
+   "teamTwo": "КОМАНДА ТАРХУН",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ДЮШЕС\" і \"КОМАНДА ТАРХУН\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92620_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЮТУБ",
+   "teamTwo": "КОМАНДА ТВІЧ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЮТУБ\" і \"КОМАНДА ТВІЧ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92621_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КАВА",
+   "teamTwo": "КОМАНДА ЧАЙ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КАВА\" і \"КОМАНДА ЧАЙ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92622_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СОПІЛКИ",
+   "teamTwo": "КОМАНДА ТРЕМБІТИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СОПІЛКИ\" і \"КОМАНДА ТРЕМБІТИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92623_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА РУДИЙ АП",
+   "teamTwo": "КОМАНДА СКЕЛЕТИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА РУДИЙ АП\" і \"КОМАНДА СКЕЛЕТИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92624_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА БОРДЮР",
+   "teamTwo": "КОМАНДА ПОРЕБРИК",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА БОРДЮР\" і \"КОМАНДА ПОРЕБРИК\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92625_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ОГО",
+   "teamTwo": "КОМАНДА ВАУ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ОГО\" і \"КОМАНДА ВАУ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92626_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ФУ!",
+   "teamTwo": "КОМАНДА УФ!",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ФУ!\" і \"КОМАНДА УФ!\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92627_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ОКРАЄЦЬ",
+   "teamTwo": "КОМАНДА М'ЯКУШ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ОКРАЄЦЬ\" і \"КОМАНДА М'ЯКУШ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92628_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА З ПЮРЕШКОЮ",
+   "teamTwo": "КОМАНДА З МАКАРОНЧИКАМИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА З ПЮРЕШКОЮ\" і \"КОМАНДА З МАКАРОНЧИКАМИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92629_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ВУСА",
+   "teamTwo": "КОМАНДА БОРОДА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ВУСА\" і \"КОМАНДА БОРОДА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92630_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЧИК-ЧИРИК",
+   "teamTwo": "КОМАНДА КУ-КУ-РІ-КУ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЧИК-ЧИРИК\" і \"КОМАНДА КУ-КУ-РІ-КУ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92631_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЯЄЧНЯ",
+   "teamTwo": "КОМАНДА ОМЛЕТ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЯЄЧНЯ\" і \"КОМАНДА ОМЛЕТ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92632_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПАНК-РОК",
+   "teamTwo": "КОМАНДА ХЕВІ-МЕТАЛ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПАНК-РОК\" і \"КОМАНДА ХЕВІ-МЕТАЛ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92633_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ГІГИ",
+   "teamTwo": "КОМАНДА ДЗІДЗЬО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ГІГИ\" і \"КОМАНДА ДЗІДЗЬО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92634_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПОЛЯКОВА",
+   "teamTwo": "КОМАНДА ПОТАПА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПОЛЯКОВА\" і \"КОМАНДА ПОТАПА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92635_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ФЕСТ",
+   "teamTwo": "КОМАНДА ВАЛЕРИЧ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ФЕСТ\" і \"КОМАНДА ВАЛЕРИЧ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92636_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МАККАРТНІ",
+   "teamTwo": "КОМАНДА ЛЕННОН",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МАККАРТНІ\" і \"КОМАНДА ЛЕННОН\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92637_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПАВЛІКА",
+   "teamTwo": "КОМАНДА ПОПЛАВСЬКОГО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПАВЛІКА\" і \"КОМАНДА ПОПЛАВСЬКОГО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92638_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ШЕВЧЕНКА",
+   "teamTwo": "КОМАНДА ФРАНКА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ШЕВЧЕНКА\" і \"КОМАНДА ФРАНКА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92639_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СМАЖЕНІ",
+   "teamTwo": "КОМАНДА ПОВИДЛО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СМАЖЕНІ\" і \"КОМАНДА ПОВИДЛО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92640_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КОМАРІ",
+   "teamTwo": "КОМАНДА МУХИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КОМАРІ\" і \"КОМАНДА МУХИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92641_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МАЛЕЧА",
+   "teamTwo": "КОМАНДА ПЕНСІОНЕРИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МАЛЕЧА\" і \"КОМАНДА ПЕНСІОНЕРИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92642_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЕЛЬФИ",
+   "teamTwo": "КОМАНДА ГНОМИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЕЛЬФИ\" і \"КОМАНДА ГНОМИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92643_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СИНИЦЯ В РУКАХ",
+   "teamTwo": "КОМАНДА ЛЕЛЕКА В НЕБІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СИНИЦЯ В РУКАХ\" і \"КОМАНДА ЛЕЛЕКА В НЕБІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92644_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПІРАТИ",
+   "teamTwo": "КОМАНДА ПАПУГИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПІРАТИ\" і \"КОМАНДА ПАПУГИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92645_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ХИЖАКИ",
+   "teamTwo": "КОМАНДА ОТРУЙНІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ХИЖАКИ\" і \"КОМАНДА ОТРУЙНІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92646_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ДИСКЕТ",
+   "teamTwo": "КОМАНДА DVD",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ДИСКЕТ\" і \"КОМАНДА DVD\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92647_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ДЕВ'ЯНОСТІ",
+   "teamTwo": "КОМАНДА НУЛЬОВІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ДЕВ'ЯНОСТІ\" і \"КОМАНДА НУЛЬОВІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92648_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МАНТИ",
+   "teamTwo": "КОМАНДА ХІНКАЛІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МАНТИ\" і \"КОМАНДА ХІНКАЛІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92649_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТРІПЛ-ЕЙ",
+   "teamTwo": "КОМАНДА ІНДІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТРІПЛ-ЕЙ\" і \"КОМАНДА ІНДІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92650_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА АНДЕРКАТ",
+   "teamTwo": "КОМАНДА ПОМПАДУР",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА АНДЕРКАТ\" і \"КОМАНДА ПОМПАДУР\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92651_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ХОЛОДНІ ПЛАСТІВЦІ",
+   "teamTwo": "КОМАНДА ГАРЯЧА КАША",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ХОЛОДНІ ПЛАСТІВЦІ\" і \"КОМАНДА ГАРЯЧА КАША\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92652_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЧАС",
+   "teamTwo": "КОМАНДА СКЛО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЧАС\" і \"КОМАНДА СКЛО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92653_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА БОКАЛИ",
+   "teamTwo": "КОМАНДА КРУЖКИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА БОКАЛИ\" і \"КОМАНДА КРУЖКИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92654_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТЮЛЬПАНИ",
+   "teamTwo": "КЛМАНДА МАРГАРИТКИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТЮЛЬПАНИ\" і \"КЛМАНДА МАРГАРИТКИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92655_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МЕЙНСТРІМ",
+   "teamTwo": "КОМАНДА РЕТРО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МЕЙНСТРІМ\" і \"КОМАНДА РЕТРО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92656_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА САМСИ",
+   "teamTwo": "КОМАНДА ТОРТИЛЬЇ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА САМСИ\" і \"КОМАНДА ТОРТИЛЬЇ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92657_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ГІП-ГІП",
+   "teamTwo": "КОМАНДА УРА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ГІП-ГІП\" і \"КОМАНДА УРА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92658_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА БАБУЇНИ",
+   "teamTwo": "КОМАНДА ГОРИЛИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА БАБУЇНИ\" і \"КОМАНДА ГОРИЛИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92659_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СОНЦЕ",
+   "teamTwo": "КОМАНДА МІСЯЦЬ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СОНЦЕ\" і \"КОМАНДА МІСЯЦЬ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92660_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ДЕЛЬФІНИ",
+   "teamTwo": "КОМАНДА ВОСЬМОНОГИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ДЕЛЬФІНИ\" і \"КОМАНДА ВОСЬМОНОГИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92661_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЗВІСНО",
+   "teamTwo": "КОМАНДА АЯКЖЕ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЗВІСНО\" і \"КОМАНДА АЯКЖЕ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92662_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА НЕЙЛОН",
+   "teamTwo": "КОМАНДА ШОВК",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА НЕЙЛОН\" і \"КОМАНДА ШОВК\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92663_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ГОЛІ",
+   "teamTwo": "КОМАНДА СМІШНІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ГОЛІ\" і \"КОМАНДА СМІШНІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92664_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПРАЛІНЕ",
+   "teamTwo": "КОМАНДА МЕЛАССА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПРАЛІНЕ\" і \"КОМАНДА МЕЛАССА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92665_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МАДЖЕНТА",
+   "teamTwo": "КОМАНДА ЛАЗУР",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МАДЖЕНТА\" і \"КОМАНДА ЛАЗУР\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92666_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ВЕЛЬВЕТ",
+   "teamTwo": "КОМАНДА КАШЕМИР",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ВЕЛЬВЕТ\" і \"КОМАНДА КАШЕМИР\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92667_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПІОНЕРИ",
+   "teamTwo": "КОМАНДА СКАУТИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПІОНЕРИ\" і \"КОМАНДА СКАУТИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92668_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЛІВО РУЛЯ",
+   "teamTwo": "КОМАНДА ПРАВО НА БОРТ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЛІВО РУЛЯ\" і \"КОМАНДА ПРАВО НА БОРТ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92669_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЗОЛОТОВОЛОСКА",
+   "teamTwo": "КОМАНДА ДЮЙМОВОЧКА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЗОЛОТОВОЛОСКА\" і \"КОМАНДА ДЮЙМОВОЧКА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92670_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА БОРЩ",
+   "teamTwo": "КОМАНДА РАГУ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА БОРЩ\" і \"КОМАНДА РАГУ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92671_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА БУХГАЛТЕРІВ",
+   "teamTwo": "КОМАНДА ВАНТАЖНИКІВ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА БУХГАЛТЕРІВ\" і \"КОМАНДА ВАНТАЖНИКІВ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92672_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ДОСВІДЧЕНІ",
+   "teamTwo": "КОМАНДА МОЛОДІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ДОСВІДЧЕНІ\" і \"КОМАНДА МОЛОДІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92673_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СОЛОДЕСЕНЬКІ",
+   "teamTwo": "КОМАНДА СИМПАТУЛЬКИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СОЛОДЕСЕНЬКІ\" і \"КОМАНДА СИМПАТУЛЬКИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92674_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЛИМОНАД",
+   "teamTwo": "КОМАНДА КОКТЕЙЛЬ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЛИМОНАД\" і \"КОМАНДА КОКТЕЙЛЬ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92675_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КОСИНКА",
+   "teamTwo": "КОМАНДА САПЕР",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КОСИНКА\" і \"КОМАНДА САПЕР\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92676_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА БІЛЬЯРД",
+   "teamTwo": "КОМАНДА БОУЛИНГ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА БІЛЬЯРД\" і \"КОМАНДА БОУЛИНГ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92677_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТА ЯК ТАК",
+   "teamTwo": "КОМАНДА ТА ЗА ЩО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТА ЯК ТАК\" і \"КОМАНДА ТА ЗА ЩО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92678_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТЕРМІНАТОР",
+   "teamTwo": "КОМАНДА РЕМБО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТЕРМІНАТОР\" і \"КОМАНДА РЕМБО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92679_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПЕЛЬМЕНІ",
+   "teamTwo": "КОМАНДА ВАРЕНИКИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПЕЛЬМЕНІ\" і \"КОМАНДА ВАРЕНИКИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92680_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТЕЛЕКІНЕЗ",
+   "teamTwo": "КОМАНДА ТЕЛЕПОРТАЦІЯ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТЕЛЕКІНЕЗ\" і \"КОМАНДА ТЕЛЕПОРТАЦІЯ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92681_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ОРЕЛ",
+   "teamTwo": "КОМАНДА РЕШКА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ОРЕЛ\" і \"КОМАНДА РЕШКА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92682_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЧИКИ-БРИКИ",
+   "teamTwo": "КОМАНДА ЕНИКИ-БЕНИКИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЧИКИ-БРИКИ\" і \"КОМАНДА ЕНИКИ-БЕНИКИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92683_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ПАСТУХИ",
+   "teamTwo": "КОМАНДА КОРОВИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ПАСТУХИ\" і \"КОМАНДА КОРОВИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92684_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТРИ ПОРОСЯТКА",
+   "teamTwo": "КОМАНДА СІРИЙ ВОВК",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТРИ ПОРОСЯТКА\" і \"КОМАНДА СІРИЙ ВОВК\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92685_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА МАРКО",
+   "teamTwo": "КОМАНДА ПОЛО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА МАРКО\" і \"КОМАНДА ПОЛО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92686_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА РУБІНИ",
+   "teamTwo": "КОМАНДА САПФІРИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА РУБІНИ\" і \"КОМАНДА САПФІРИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92687_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТЕЛЕГРАМ",
+   "teamTwo": "КОМАНДА ДІСКОРД",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТЕЛЕГРАМ\" і \"КОМАНДА ДІСКОРД\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92688_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КІШКИ",
+   "teamTwo": "КОМАНДА СОБАКИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КІШКИ\" і \"КОМАНДА СОБАКИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92689_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СІЛЬ",
+   "teamTwo": "КОМАНДА ЦУКОР",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СІЛЬ\" і \"КОМАНДА ЦУКОР\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92690_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ШІСТЬ",
+   "teamTwo": "КОМАНДА СІМ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ШІСТЬ\" і \"КОМАНДА СІМ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92691_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА НІ РИБА",
+   "teamTwo": "КОМАНДА НІ М'ЯСО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА НІ РИБА\" і \"КОМАНДА НІ М'ЯСО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92692_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЧЕЛ",
+   "teamTwo": "КОМАНДА БРО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЧЕЛ\" і \"КОМАНДА БРО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92693_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КРУТИЗНА",
+   "teamTwo": "КОМАНДА ВІДСТІЙ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КРУТИЗНА\" і \"КОМАНДА ВІДСТІЙ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92694_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ОРДА",
+   "teamTwo": "КОМАНДА АЛЬЯНС",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ОРДА\" і \"КОМАНДА АЛЬЯНС\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92695_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЧЕМПІОН",
+   "teamTwo": "КОМАНДА ПРЕТЕНДЕНТ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЧЕМПІОН\" і \"КОМАНДА ПРЕТЕНДЕНТ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92696_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА УРА!",
+   "teamTwo": "КОМАНДА ЮХУ!",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА УРА!\" і \"КОМАНДА ЮХУ!\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92697_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КРАСУНІ",
+   "teamTwo": "КОМАНДА ЧУДОВИСЬКА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КРАСУНІ\" і \"КОМАНДА ЧУДОВИСЬКА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92698_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ШИТО",
+   "teamTwo": "КОМАНДА КРИТО",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ШИТО\" і \"КОМАНДА КРИТО\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92699_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА СОТКИ",
+   "teamTwo": "КОМАНДА КЕПСИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА СОТКИ\" і \"КОМАНДА КЕПСИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92700_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ХАЛАТИ",
+   "teamTwo": "КОМАНДА СЛАНЦІ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ХАЛАТИ\" і \"КОМАНДА СЛАНЦІ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92701_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ВИБАЧТЕ",
+   "teamTwo": "КОМАНДА ПІШОВ ГЕТЬ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ВИБАЧТЕ\" і \"КОМАНДА ПІШОВ ГЕТЬ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92702_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ДОГОНЯЛКИ",
+   "teamTwo": "КОМАНДА КЛАСИКИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ДОГОНЯЛКИ\" і \"КОМАНДА КЛАСИКИ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92703_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЙДЕ ВПЕРЕД",
+   "teamTwo": "КОМАНДА НЕ ЗДАЄТЬСЯ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЙДЕ ВПЕРЕД\" і \"КОМАНДА НЕ ЗДАЄТЬСЯ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92704_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА КИЦЬ-КИЦЬ",
+   "teamTwo": "КОМАНДА БРИСЬ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА КИЦЬ-КИЦЬ\" і \"КОМАНДА БРИСЬ\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92705_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ТАЛІЯ",
+   "teamTwo": "КОМАНДА БЕДРА",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ТАЛІЯ\" і \"КОМАНДА БЕДРА\"."
+  },
+  {
+   "countrySpecific": false,
+   "id": "92706_uk-UA",
+   "isValid": "",
+   "teamOne": "КОМАНДА ЯНГОЛЯТА",
+   "teamTwo": "КОМАНДА ЧОРТЯКИ",
+   "x": false,
+   "nameAnnouncement": "\"КОМАНДА ЯНГОЛЯТА\" і \"КОМАНДА ЧОРТЯКИ\"."
+  }
+ ]
+}

@@ -1,0 +1,697 @@
+{
+ "content": [
+  {
+   "countrySpecific": false,
+   "id": "87830_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти залицяєшся з собою?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87831_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти опишеш свою сьогоднiшню поведiнку?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87832_uk-UA",
+   "isValid": "",
+   "prompt": "Пiсля всього, що ти зробив, як ти спиш вночi?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87834_uk-UA",
+   "isValid": "",
+   "prompt": "Що робить вас кращими за iшних?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87835_uk-UA",
+   "isValid": "",
+   "prompt": "Як, на твою думку, бачать тебе iшнi квартиранти?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87843_uk-UA",
+   "isValid": "",
+   "prompt": "У чому твiй секрет?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87844_uk-UA",
+   "isValid": "",
+   "prompt": "Чому ти заслуговуєш бути тут?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87847_uk-UA",
+   "isValid": "",
+   "prompt": "Наскiльки далеко ти готовий пiти, щоб перемогти?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87848_uk-UA",
+   "isValid": "",
+   "prompt": "Чому ви так i не подивилися один одному у вічі?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87851_uk-UA",
+   "isValid": "",
+   "prompt": "Чого тебе навчила сьогоднiшня гра?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87852_uk-UA",
+   "isValid": "",
+   "prompt": "Що б ти зробив по-iшному в сьогоднiшнiй грi?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87879_uk-UA",
+   "isValid": "",
+   "prompt": "Про що ти шкодуєш?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88195_uk-UA",
+   "isValid": "",
+   "prompt": "Що визначило твiй сьогоднiшнiй iгровий стиль?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88324_uk-UA",
+   "isValid": "",
+   "prompt": "У чому твоя [i]проблема?[/i]",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88325_uk-UA",
+   "isValid": "",
+   "prompt": "Який момент сьогоднiшньої гри був найкращим?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88386_uk-UA",
+   "isValid": "",
+   "prompt": "Яку єдину помилку ти сьогоднi допустив?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88391_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти будеш думати про інших квартирантів після гри?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88491_uk-UA",
+   "isValid": "",
+   "prompt": "Що для вас означає \"чеснiсть\"?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88494_uk-UA",
+   "isValid": "",
+   "prompt": "Що сьогоднi змусило вчинити тебе так, як ти вчинив?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88579_uk-UA",
+   "isValid": "",
+   "prompt": "Якби ти зустрiв свого творця, що б ти йому сказав?",
+   "x": true
+  },
+  {
+   "countrySpecific": false,
+   "id": "88580_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти будеш пояснювати свої дії у Квартиранзі своїм онукам?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88602_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти думаєш про \"зустрiч випускникiв\"?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88603_uk-UA",
+   "isValid": "",
+   "prompt": "Ти заслуговуєш перемогу тiльки з однiєї причини. З якої?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88604_uk-UA",
+   "isValid": "",
+   "prompt": "Що зараз говорять про тебе друзi, якi дивляться все по телевiзору?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88796_uk-UA",
+   "isValid": "",
+   "prompt": "Чому ти думаєш, що заслуговуєш на перемогу?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88798_uk-UA",
+   "isValid": "",
+   "prompt": "Всi описують тебе одним словом або фразою. Як саме?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88801_uk-UA",
+   "isValid": "",
+   "prompt": "Якi останнi слова ти скажеш глядачам?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88803_uk-UA",
+   "isValid": "",
+   "prompt": "Пiсля цiєї гри... куди ти пiдеш?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88805_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти скажеш усiм тим, хто тебе недооцiнює?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90016_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти скажешь дзеркалу сьогоднi ввечерi?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90019_uk-UA",
+   "isValid": "",
+   "prompt": "Що змушує тебе вiдчувати себе живим?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90020_uk-UA",
+   "isValid": "",
+   "prompt": "Який особистий виклик чекає на тебе пiсля гри?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90022_uk-UA",
+   "isValid": "",
+   "prompt": "Якими трьома словами можна описати те, як ти пiдкорив цей будинок?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90023_uk-UA",
+   "isValid": "",
+   "prompt": "Яку пораду ти дав би собi молодому?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90024_uk-UA",
+   "isValid": "",
+   "prompt": "Який, на вашу думку, ключ до впевненостi?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90025_uk-UA",
+   "isValid": "",
+   "prompt": "Заради чого варто жити?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90026_uk-UA",
+   "isValid": "",
+   "prompt": "Пiсля цiєї гри, яка риса сусiда по кiмнатi для тебе стала важливою?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90027_uk-UA",
+   "isValid": "",
+   "prompt": "Чого, на твою думку, зараз потребує свiт?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90028_uk-UA",
+   "isValid": "",
+   "prompt": "Що допомагало тобi в найважчi моменти життя?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90029_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти порадиш для подолання особистих труднощiв?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90031_uk-UA",
+   "isValid": "",
+   "prompt": "Твiй будинок горить. Яку єдину рiч ти врятуєш?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90032_uk-UA",
+   "isValid": "",
+   "prompt": "Якби ти мiг бути покровителем, то яким би ти був?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90033_uk-UA",
+   "isValid": "",
+   "prompt": "Кому ти подзвониш перш за все, якщо переможеш?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90035_uk-UA",
+   "isValid": "",
+   "prompt": "Чому тобi все дається так легко?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90036_uk-UA",
+   "isValid": "",
+   "prompt": "Яка твою секретна стратегiя?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90037_uk-UA",
+   "isValid": "",
+   "prompt": "За чим ти будеш сумувати найбільше в будинку Квартиранга?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90038_uk-UA",
+   "isValid": "",
+   "prompt": "Як тобi вдається бути самим собою?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90039_uk-UA",
+   "isValid": "",
+   "prompt": "Хто зіграє тебе у фільмі [i]Квартиранг у кіно[/i]?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90040_uk-UA",
+   "isValid": "",
+   "prompt": "Яка рiч завжди змушує тебе посмiхатися?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90042_uk-UA",
+   "isValid": "",
+   "prompt": "До кого ти звертаєшся за натхенням?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90043_uk-UA",
+   "isValid": "",
+   "prompt": "Як цей iгровий досвiд змiнить тебе?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90044_uk-UA",
+   "isValid": "",
+   "prompt": "Яку пораду ти б дав новим учасникам?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90045_uk-UA",
+   "isValid": "",
+   "prompt": "Якою цитатою ти керуєшся по життю?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90046_uk-UA",
+   "isValid": "",
+   "prompt": "Що з Квартиранга ви розповісте своїм дітям?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90047_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти хочеш сказати всiм своїм хейтерам?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90049_uk-UA",
+   "isValid": "",
+   "prompt": "Яким словом ти б назвав усіх своїх нових фанатів?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90051_uk-UA",
+   "isValid": "",
+   "prompt": "Чого тобі не вистачає в зовнішньому світі?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90052_uk-UA",
+   "isValid": "",
+   "prompt": "Крім цієї гри, які в тебе ще є цілі в шоу-бізнесі?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90053_uk-UA",
+   "isValid": "",
+   "prompt": "Що чекає на тебе в майбутньому?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90054_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти кажеш собі перед сном щовечора?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90055_uk-UA",
+   "isValid": "",
+   "prompt": "Яка фраза відображає твій індивідуальний стиль?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90056_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти перш за все зробиш після перемоги?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90057_uk-UA",
+   "isValid": "",
+   "prompt": "Як перемога змінить тебе?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90058_uk-UA",
+   "isValid": "",
+   "prompt": "Як тобі вдається не втрачати мотивацію?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90061_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти робиш, щоб відчути себе особливим?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90062_uk-UA",
+   "isValid": "",
+   "prompt": "Яка якість особистості допомогла тобі найбільше в цій грі?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90063_uk-UA",
+   "isValid": "",
+   "prompt": "В якому шоу ти візьмеш участь наступним?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90064_uk-UA",
+   "isValid": "",
+   "prompt": "У чому секрет твоєї незабутності?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90382_uk-UA",
+   "isValid": "",
+   "prompt": "Чим тобі допомогли інші квартиранти?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90383_uk-UA",
+   "isValid": "",
+   "prompt": "Якщо ти сьогодні переможеш, як ти будеш святкувати?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90384_uk-UA",
+   "isValid": "",
+   "prompt": "Ким ти бачиш себе через п'ять років?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90504_uk-UA",
+   "isValid": "",
+   "prompt": "Розкажи про стратегію, якою ти скористався, щоб дійти до кінця.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90593_uk-UA",
+   "isValid": "",
+   "prompt": "Чого ти навчився від інших квартирантів?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90619_uk-UA",
+   "isValid": "",
+   "prompt": "Якби ти міг забрати звідси одну річ... що б це було?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90683_uk-UA",
+   "isValid": "",
+   "prompt": "Чи шкодуєш ти про щось, що трапилося на сьогоднішній грі?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90684_uk-UA",
+   "isValid": "",
+   "prompt": "Як тебе повинні запам'ятати інші квартиранти?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90685_uk-UA",
+   "isValid": "",
+   "prompt": "Розкажіть про свій найбільший урок з цієї гри у Квартиранг.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90785_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти повторюєш собі під ніс на початку і в кінці кожного дня?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90841_uk-UA",
+   "isValid": "",
+   "prompt": "Що тобі завадило повністю розкритися в сьогоднішній грі?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90843_uk-UA",
+   "isValid": "",
+   "prompt": "Що було б викарбувано на меморіальній лавці Квртиранга на твою честь?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90892_uk-UA",
+   "isValid": "",
+   "prompt": "Дай позитивну пораду дітям усього світу.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90893_uk-UA",
+   "isValid": "",
+   "prompt": "Це твоя остання можливість висловитися. Що ти скажеш?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90961_uk-UA",
+   "isValid": "",
+   "prompt": "Як тобі сьогодні вдалося зберегти свою гідність?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90962_uk-UA",
+   "isValid": "",
+   "prompt": "Про який сьогоднішній вчинок ти ще довго думатимеш?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90963_uk-UA",
+   "isValid": "",
+   "prompt": "Яку подію з сьогоднішньої гри ти запам'ятаєш назавжди?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91230_uk-UA",
+   "isValid": "",
+   "prompt": "Який фінал цієї гри був би найприємнішим?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91231_uk-UA",
+   "isValid": "",
+   "prompt": "Який експонат був би головним на виставці, присвяченій тобі?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91232_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти скажеш усім, кого переміг?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91233_uk-UA",
+   "isValid": "",
+   "prompt": "Що дасть тобі перемога у Квартиранзі?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91234_uk-UA",
+   "isValid": "",
+   "prompt": "Якби ви не грали зараз у Квартиранг... де б ви були?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93469_uk-UA",
+   "isValid": "",
+   "prompt": "Розкажи нам про ті свої якості, які [i]не[/i] потрапляють на камеру.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93470_uk-UA",
+   "isValid": "",
+   "prompt": "Що про тебе неправильно написали ЗМІ?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93471_uk-UA",
+   "isValid": "",
+   "prompt": "Якби все можна було почати з початку... що б ти змінив?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93473_uk-UA",
+   "isValid": "",
+   "prompt": "Що може бути більшою перемогою, ніж перемога у [i]Квартиранзі[/i]? ",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93474_uk-UA",
+   "isValid": "",
+   "prompt": "Чим ви відрізняєтесь від людини, яка вперше увійшла у двері цього [i]Квартирангу[/i]?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93481_uk-UA",
+   "isValid": "",
+   "prompt": "Це що... сльоза? Ти плачеш? Чому ти плачеш?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93482_uk-UA",
+   "isValid": "",
+   "prompt": "Після цієї гри, коли ти подивишся в дзеркало... що ти побачиш?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93483_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти так хотів сказати з того моменту, як прийшов сюди?",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93484_uk-UA",
+   "isValid": "",
+   "prompt": "Якби ти хотів здивувати нас востаннє... що б ти сказав?",
+   "x": false
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "content": [
+  {
+   "category": "Ляльковий двір Галі",
+   "id": "88198_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Ім'я цієї ляльки: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "НеРозетка",
+   "id": "88199_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Ця фігурка називається: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Іграшкова радість Трої",
+   "id": "88200_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Ця іграшка називається: {{BLANK}}",
+   "weight": 1
+  },
+  {
+   "category": "Винні вина Вінниці",
+   "id": "88201_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Цей дрібничка називається: {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Ювелірні інструменти",
+   "id": "88202_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Цей інструмент називається {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Як помреш, то здай сюди",
+   "id": "88203_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Назва цього твору - {{BLANK}}",
+   "weight": 2
+  },
+  {
+   "category": "Євросеконд-хенд",
+   "id": "88204_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Цей товар є {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Бюстгалтери для бухгалтерів",
+   "id": "88205_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Люди зазвичай називають це {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Будинок моди Андре Тана",
+   "id": "88206_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Назва цього товару - {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Різноманітні судна Верна",
+   "id": "88207_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Попередні власники називали цей товар {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Сержантський магазин декору",
+   "id": "88208_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Назва цього яскравого твору - {{BLANK}}",
+   "weight": 3
+  },
+  {
+   "category": "Величезний смітник",
+   "id": "88209_uk-UA",
+   "isValid": "",
+   "titlePrompt": "Це {{BLANK}}",
+   "weight": 2
+  }
+ ]
+}

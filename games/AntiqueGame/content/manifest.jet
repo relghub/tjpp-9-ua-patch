@@ -1,0 +1,11 @@
+{
+    "id":"Main",
+    "name":"AntiqueGame Main",
+    "types":[
+        "AntiqueGameAntique",
+        "AntiqueGameCategory",
+        "AntiqueGameSpellStructures",
+        "AntiqueGameSpellNames",
+        "AntiqueGameSpellNouns"
+    ]
+}

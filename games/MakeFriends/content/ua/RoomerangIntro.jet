@@ -1,0 +1,804 @@
+{
+ "content": [
+  {
+   "countrySpecific": false,
+   "id": "87669_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за фраза?",
+   "scenario": "Під час відкриття шоу ти дивишся у камеру та вимовляєш свою коронну фразу.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87670_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за напис?",
+   "scenario": "Ти заходиш у будинок у футболці з твоїм улюбленим написом, викладеним глітером.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87672_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за напій?",
+   "scenario": "Ти заходиш у будинок, п'ючи свій улюблений напій",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87673_uk-UA",
+   "isValid": "",
+   "prompt": "Де проходила ця відпустка?",
+   "scenario": "Ти приїжджаєш у будинок після великої відпустки.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87675_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за жест?",
+   "scenario": "Ти заходиш у будинок, роблячи свій коронний жест рукою.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87676_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти скажеш чи зробиш перш за все?",
+   "scenario": "У перший день ти хочеш залякати конкурентів.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87678_uk-UA",
+   "isValid": "",
+   "prompt": "З якої?",
+   "scenario": "Ти тут лише з однієї причини...",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87679_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти дістався сюди?",
+   "scenario": "Ти приїжджаєш у будинок дуже незвичайним способом.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87680_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти кажеш перед тим, як покласти слухавку?",
+   "scenario": "Ти заходиш, закінчуючи ДУЖЕ важливу телефонну розмову.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87681_uk-UA",
+   "isValid": "",
+   "prompt": "Що трапилося?",
+   "scenario": "Ти приходиш у поганому настрої і кажеш: \"ПРОБАЧТЕ, У МЕНЕ... ПОГАНИЙ ДЕНЬ\".",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87682_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за журнал?",
+   "scenario": "Ти заходиш у будинок Квартиранга, читаючи улюблений журнал.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87683_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за книга?",
+   "scenario": "Ти приходиш у будинок з улюбленою книжкою під пахвою.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87684_uk-UA",
+   "isValid": "",
+   "prompt": "Яким чином ти займеш своє?",
+   "scenario": "Всі біжать до будинку, щоб зайняти найкраще ліжко.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87685_uk-UA",
+   "isValid": "",
+   "prompt": "Як ви привітаєтесь?",
+   "scenario": "Кожен по-унікальному вітає сусідів по кімнаті.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87686_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти відреагуєш?",
+   "scenario": "Ти помітив, що в іншого квартиранта щось застрягло в зубах.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87687_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти скажеш?",
+   "scenario": "Ти приходиш у будинок, спізнившись на дві години. Ти можеш вигадати будь-яке виправдання.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87689_uk-UA",
+   "isValid": "",
+   "prompt": "В якому?",
+   "scenario": "Ти входиш у будинок у своєму улюбленому головному уборі.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87691_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за річ?",
+   "scenario": "Розпаковуючи речі, ви дістаєте найцінніше, що у вас є.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87693_uk-UA",
+   "isValid": "",
+   "prompt": "Про яке життєве досягнення Ви розкажете?",
+   "scenario": "Ви приїхали, і готові сяяти!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87695_uk-UA",
+   "isValid": "",
+   "prompt": "Як входиш ти?",
+   "scenario": "Кожен урочисто входить до будинку.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87696_uk-UA",
+   "isValid": "",
+   "prompt": "Що зображено на ньому?",
+   "scenario": "Ви вирішили повісити постер, щоб прикрасити свою кімнату!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87796_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за аксесуар?",
+   "scenario": "Перед тим, як входити в будинок, ти одягнув аксесуар, який зробить тебе найкрутішим.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87797_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти скажеш?",
+   "scenario": "Ти хочеш вивести всіх із себе, сказавши щось зовсім божевільне!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87798_uk-UA",
+   "isValid": "",
+   "prompt": "Якого правила мають дотримуватися твої сусіди?",
+   "scenario": "У тебе ДУЖЕ незвичайні вимоги.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87800_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за річ?",
+   "scenario": "Щоб заспокоїти нерви, ти приніс у дім приємну річ зі свого дитинства.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87875_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти відреагуєш?",
+   "scenario": "Коли ти заходиш у будинок, хтось каже, що тебе виключили! (Але це не так)",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87877_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти скажеш або зробиш, щоб реабілітуватися?",
+   "scenario": "Увійшовши в будинок, ти шпортаєшся і падаєш на очах у всіх.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88051_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти одягнений?",
+   "scenario": "Ти входиш у будинок у костюмі улюбленого героя.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88055_uk-UA",
+   "isValid": "",
+   "prompt": "Яку зброю для дуелі ви обираєте?",
+   "scenario": "Ви викликаєте на дуель іншого члена будинку.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88061_uk-UA",
+   "isValid": "",
+   "prompt": "Який подарунок ти принесеш іншим квартирантам?",
+   "scenario": "Приходити з порожніми руками - неввічливо.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88075_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти прокричиш у камеру?",
+   "scenario": "Ти намагаєшся привернути увагу, зробивши термінове оголошення!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88211_uk-UA",
+   "isValid": "",
+   "prompt": "Що тебе найбільше дратує?",
+   "scenario": "Почнемо з цілковитої відвертості.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88213_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти зробиш, щоб продемонструвати свою пристрасть і навички?",
+   "scenario": "Ти входиш у дім і хочеш показати себе решті!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88272_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти їси?",
+   "scenario": "Для того, щоб почуватися безтурботно і спокійно, ти входиш у будинок і їси на ходу.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88274_uk-UA",
+   "isValid": "",
+   "prompt": "Що ви робите, щоб позбутися цього подарунка?",
+   "scenario": "Ваш прихід був зіпсований, коли одна з екзотичних домашніх пташок помітила ваше плече.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88305_uk-UA",
+   "isValid": "",
+   "prompt": "Хто він?",
+   "scenario": "Ти входиш у будинок зі своїм домашнім улюбленцем.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88333_uk-UA",
+   "isValid": "",
+   "prompt": "Що ви колекціонуєте?",
+   "scenario": "Ви привезли з собою колекцію, яку збирали ще з дитинства.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88467_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти завоюєш його довіру?",
+   "scenario": "Ти заходив в дім та бачиш домашнього пса, Квартер'єра.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88468_uk-UA",
+   "isValid": "",
+   "prompt": "Який смаколик ти принесеш із собою?",
+   "scenario": "За нашими звичаями, заведено брати з собою в дім якийсь смаколик.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88487_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти впустив у дім?",
+   "scenario": "Ти входиш у будинок зі спеціальним контейнером, який одразу ж відкриваєш.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88493_uk-UA",
+   "isValid": "",
+   "prompt": "Так... у що ти одягнений?",
+   "scenario": "Одна велика людина одного разу сказала: \"Одягайся відповідно до роботи, яку хочеш отримати.\".",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88555_uk-UA",
+   "isValid": "",
+   "prompt": "Яка у тебе особиста мантра?",
+   "scenario": "Ти хочеш вразити інших квартирантів своїм потужним життєвим слоганом!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88589_uk-UA",
+   "isValid": "",
+   "prompt": "Який твій?",
+   "scenario": "Усі приїжджають зі своїми фірмовими десертами.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88590_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти скажешь у відповідь?",
+   "scenario": "Коли ти заходиш у дім, хтось каже: \"Таке враження, начебто я тебе десь бачив\".",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88591_uk-UA",
+   "isValid": "",
+   "prompt": "Яке твоє перше правило в спальні?",
+   "scenario": "Незручно. Весь будинок спить на одному великому ліжку.",
+   "x": true
+  },
+  {
+   "countrySpecific": false,
+   "id": "88735_uk-UA",
+   "isValid": "",
+   "prompt": "Де ти вчився і яка в тебе спеціальність?",
+   "scenario": "З часом всі діляться своїми історіями про навчання в коледжі чи університеті.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88767_uk-UA",
+   "isValid": "",
+   "prompt": "Яким досягненням похвалишся ти?",
+   "scenario": "Кожен хвалиться собою.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88769_uk-UA",
+   "isValid": "",
+   "prompt": "Який нещирий комплімент ти зробиш?",
+   "scenario": "Інші квартиранти погано одягнені, але ти не хочеш їх засмучувати.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88776_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти побачив?",
+   "scenario": "Ти входиш у будинок і зустрічаєшся зі своїм найголовнішим страхом!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89010_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти під'їдеш до будинку?",
+   "scenario": "Ти можеш приїхати на будь-якому транспорті!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89044_uk-UA",
+   "isValid": "",
+   "prompt": "Що тебе вивело з себе?",
+   "scenario": "Ти одразу ж бачиш щось, що приводить тебе в лють.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89045_uk-UA",
+   "isValid": "",
+   "prompt": "Яку кімнату ти хочеш побачити найбільше?",
+   "scenario": "Ось ти і прибув у легендарний будинок Квартиранга!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89142_uk-UA",
+   "isValid": "",
+   "prompt": "Чим ти займешся в очікуванні інших?",
+   "scenario": "Ти приїхав у будинок раніше за всіх інших.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89240_uk-UA",
+   "isValid": "",
+   "prompt": "Заверши речення: \"Це краще, ніж ...\"",
+   "scenario": "Ти бачиш будинок Квартиранга вперше!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89241_uk-UA",
+   "isValid": "",
+   "prompt": "Що ви додасте для індивідуальності в [i]ваш[/i] бейджик?",
+   "scenario": "Кожен отримує бейджик, коли заходить у будинок Квартиранга.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89242_uk-UA",
+   "isValid": "",
+   "prompt": "Яке нове правило ти придумаєш для дому?",
+   "scenario": "Для початку, цьому дому потрібні правила.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89286_uk-UA",
+   "isValid": "",
+   "prompt": "Яку картину ти запропонуєш?",
+   "scenario": "Час надати будинку індивідуальності, повісивши на стіну у вітальні кілька картин.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89287_uk-UA",
+   "isValid": "",
+   "prompt": "Що написано на твоєму?",
+   "scenario": "У кожного є свій вітальний килимок.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89293_uk-UA",
+   "isValid": "",
+   "prompt": "Який він?",
+   "scenario": "На заставці шоу ти тримаєш у руках винайдений тобою продукт.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89295_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти потрапиш всередину?",
+   "scenario": "Вхідні двері в будинок Квартиранга заклинило.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89507_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти зробив зі своїм волоссям?",
+   "scenario": "Коли ти входиш у будинок, усі дивляться на твою експериментальну зачіску.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89511_uk-UA",
+   "isValid": "",
+   "prompt": "Хто це?",
+   "scenario": "Коли ти назвав ім'я свого друга-знаменитості, навколо одразу здійнявся галас.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89514_uk-UA",
+   "isValid": "",
+   "prompt": "Від чого ти відмовився?",
+   "scenario": "Усі знають, що ти відмовився від іншого зобов'язання, щоб бути тут.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89543_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за мелодія?",
+   "scenario": "Щойно ти увійшов, із твого телефона раптово зазвучала твоя улюблена мелодія.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89544_uk-UA",
+   "isValid": "",
+   "prompt": "Що вони кричать?",
+   "scenario": "Коли ти під'їзджаєш до дому, твої фанати на вулиці скандують!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89545_uk-UA",
+   "isValid": "",
+   "prompt": "Яка?",
+   "scenario": "У вашому контракті прописана вельми специфічна вимога щодо будинку.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89673_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти сказав?",
+   "scenario": "Коли ти заходиш у будинок, ти стукаєш у гонг і заявляєш, чого ти найбільше хочеш від життя.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89674_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти принесеш, щоб всі одразу зрозуміли хто ти?",
+   "scenario": "Ви входите у вхідні двері будинку Квартиранга.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89677_uk-UA",
+   "isValid": "",
+   "prompt": "Що саме?",
+   "scenario": "О НІ. Ти помічаєш у будинку щось, що може бути поганою ознакою!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90360_uk-UA",
+   "isValid": "",
+   "prompt": "Які?",
+   "scenario": "У тебе є три слова для інших квартирантів...",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90361_uk-UA",
+   "isValid": "",
+   "prompt": "У що ти одягнений?",
+   "scenario": "Ти йдеш червоною доріжкою, що веде до будинку.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90362_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти доносиш свій оптимістичний настрій до твоїх нових сусідів?",
+   "scenario": "Ти тут не задля драм.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90363_uk-UA",
+   "isValid": "",
+   "prompt": "Яку енергію випромінюють твої очі?",
+   "scenario": "По очах людини можна визначити все.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90381_uk-UA",
+   "isValid": "",
+   "prompt": "Що написано на кожному з них?",
+   "scenario": "Ти приїжджаєш у дім із тацею домашніх кексів.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90409_uk-UA",
+   "isValid": "",
+   "prompt": "Прошепчи собі заспокійливу фразу!",
+   "scenario": "Коли ти входиш у будинок Квартиранга, у тебе навіть коліна тремтять.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90410_uk-UA",
+   "isValid": "",
+   "prompt": "Який твій спосіб зав'язати розмову?",
+   "scenario": "Час познайомитися з іншими квартирантами!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90490_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти кричиш?",
+   "scenario": "Ти вриваєшся в будинок, відчайдушно намагаючись привернути загальну увагу.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90491_uk-UA",
+   "isValid": "",
+   "prompt": "Яким?",
+   "scenario": "Ти прослизаєш у будинок, пахнучи своїм фірмовим ароматом.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90596_uk-UA",
+   "isValid": "",
+   "prompt": "Що саме?",
+   "scenario": "Називай це забобонами... проте ти завжди щось робиш, перш ніж увійти в дім.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90598_uk-UA",
+   "isValid": "",
+   "prompt": "Що на них надруковано?",
+   "scenario": "Ти почав роздавати картки з твоїм особистим кредо.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90600_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти будеш робити?",
+   "scenario": "Усі вже прийшли, і тобі потрібно проявити лідерство, щоб затвердити свій статус.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90603_uk-UA",
+   "isValid": "",
+   "prompt": "Яку небезпеку ти намагатимешся уникнути?",
+   "scenario": "Вхід до будинку Квартиранга сповнений небезпек!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90661_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти використовуєш замість них?",
+   "scenario": "Ти хочеш влаштувати для всіх свято, але забув принести кульки.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90663_uk-UA",
+   "isValid": "",
+   "prompt": "Яку?",
+   "scenario": "Один із твоїх родичів дав тобі пораду перед шоу...",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90671_uk-UA",
+   "isValid": "",
+   "prompt": "Чим відзначився ти?",
+   "scenario": "Всі трохи вихваляються своїми досягненнями, коли приїжджають.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90825_uk-UA",
+   "isValid": "",
+   "prompt": "У чому вона полягає?",
+   "scenario": "Ти придумав трагічну передісторію, щоб завоювати загальне співчуття.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90828_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти скажеш Расті?",
+   "scenario": "При вході в будинок, усі щось говорять садівникові Расті.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90957_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти бачиш?",
+   "scenario": "Біля вхідних дверей є чарівне дзеркало, яке розкриває таємні бажання людини!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91211_uk-UA",
+   "isValid": "",
+   "prompt": "Що написано на обкладинці кожної з них?",
+   "scenario": "Ти залишаєш вітальну листівку кожному новому квартиранту!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91218_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти скажеш, коли вистрибнеш?",
+   "scenario": "Тебе вносять у будинок, ховаючи у величезному торті.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91219_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти це виправиш?",
+   "scenario": "Коли ти приходиш, усі розмовляють один з одним і не помічають тебе!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91221_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти збираєшся зробити до заходу сонця?",
+   "scenario": "Це твій перший день у будинку Квартиранга.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "91685_uk-UA",
+   "isValid": "",
+   "prompt": "Що саме?",
+   "scenario": "Ти домовився, що тобі доставлять щось у будинок до твого приходу.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93265_uk-UA",
+   "isValid": "",
+   "prompt": "Який звук він видає?",
+   "scenario": "Під'їжджаючи до будинку, ви сигналите у спеціальний клаксон на своїй машині.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93417_uk-UA",
+   "isValid": "",
+   "prompt": "Що ви будете робити?",
+   "scenario": "Ви плануєте вхід, який дійсно демонструє, хто ви є.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93418_uk-UA",
+   "isValid": "",
+   "prompt": "Яким має бути ваше ідеальне ліжко?",
+   "scenario": "Час ділити домашні ліжка!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93419_uk-UA",
+   "isValid": "",
+   "prompt": "Що саме?",
+   "scenario": "Хтось із рідних подарував вам щось на згадку про них.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93428_uk-UA",
+   "isValid": "",
+   "prompt": "Що ви зробите в першу чергу?",
+   "scenario": "Нарешті ви в будинку. Камери працюють.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93429_uk-UA",
+   "isValid": "",
+   "prompt": "Що ви можете зробити такого, чого не можуть інші сусіди по кімнаті?",
+   "scenario": "Тепер, коли всі тут, ви повинні виділитися!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93432_uk-UA",
+   "isValid": "",
+   "prompt": "Що це?",
+   "scenario": "У будинку Квартиранга є особливість, яка одразу ж змушує тебе почуватися як вдома.",
+   "x": false
+  }
+ ]
+}

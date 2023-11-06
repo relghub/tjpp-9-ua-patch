@@ -1,0 +1,214 @@
+{
+ "content": [
+  {
+   "addition": "ЛІКАР",
+   "hasSpace": true,
+   "id": "92529_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "МАЛЮК",
+   "hasSpace": true,
+   "id": "92530_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "КАПІТАН",
+   "hasSpace": true,
+   "id": "92531_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ДІДЖЕЙ",
+   "hasSpace": true,
+   "id": "92532_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ДИТИНКО",
+   "hasSpace": true,
+   "id": "92533_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "-О",
+   "hasSpace": false,
+   "id": "92534_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "-ТАУН",
+   "hasSpace": false,
+   "id": "92535_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "-ОГЛИ",
+   "hasSpace": true,
+   "id": "92536_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "МЛ.",
+   "hasSpace": true,
+   "id": "92537_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "І КО",
+   "hasSpace": true,
+   "id": "92538_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "2.0",
+   "hasSpace": true,
+   "id": "92762_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": ": РЕМІКС",
+   "hasSpace": false,
+   "id": "92763_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "ШЕФ",
+   "hasSpace": true,
+   "id": "93987_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "КУЗІН",
+   "hasSpace": false,
+   "id": "93988_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "-САН",
+   "hasSpace": false,
+   "id": "93989_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "МАЛЕНЬКА ДИТИНА",
+   "hasSpace": true,
+   "id": "93991_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "АДМІРАЛ",
+   "hasSpace": true,
+   "id": "93992_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "-НИЙ",
+   "hasSpace": true,
+   "id": "93993_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "МАЙОР",
+   "hasSpace": true,
+   "id": "93994_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ПРОФЕСОР",
+   "hasSpace": true,
+   "id": "93995_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "93996",
+   "hasSpace": true,
+   "id": "93996_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ЛОРД",
+   "hasSpace": true,
+   "id": "93997_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ДОН",
+   "hasSpace": true,
+   "id": "93998_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "СЕРЖАНТ",
+   "hasSpace": true,
+   "id": "93999_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "ЗІЛЛА",
+   "hasSpace": false,
+   "id": "94001_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": ", К.Т.Н.",
+   "hasSpace": false,
+   "id": "94002_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "-ГО",
+   "hasSpace": false,
+   "id": "94003_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "ЗЛИЙ",
+   "hasSpace": true,
+   "id": "94004_uk-UA",
+   "isValid": "",
+   "type": "PREFIX"
+  },
+  {
+   "addition": "-ТРОН",
+   "hasSpace": false,
+   "id": "94005_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  },
+  {
+   "addition": "3000",
+   "hasSpace": true,
+   "id": "94007_uk-UA",
+   "isValid": "",
+   "type": "SUFFIX"
+  }
+ ]
+}

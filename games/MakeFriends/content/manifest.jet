@@ -1,0 +1,19 @@
+{
+    "id":"Main",
+    "name":"MakeFriends Main",
+    "types":[
+        "RoomerangQuickie",
+        "RoomerangJobTitle",
+        "RoomerangIntro",
+        "RoomerangFlairPassion",
+        "RoomerangFlairNever",
+        "RoomerangFirestarter",
+        "RoomerangConnection",
+        "RoomerangAdvantages",
+        "RoomerangFinaleHard",
+        "RoomerangAdjective",
+        "RoomerangAudiencePolls",
+        "RoomerangSponsors",
+        "RoomerangNameAdditions"
+    ]
+}

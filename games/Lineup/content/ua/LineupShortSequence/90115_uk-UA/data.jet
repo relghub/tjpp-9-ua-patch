@@ -1,0 +1,15 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasPromptAudio"
+  },
+  {
+   "t": "A",
+   "v": "prompt",
+   "n": "PromptAudio",
+   "s": "Доповнення до гри [i]World of Warcraft[/i]: ліворуч - \"Вийшло раніше\", праворуч - \"Вийшло пізніше\""
+  }
+ ]
+}

@@ -1,0 +1,804 @@
+{
+ "content": [
+  {
+   "countrySpecific": false,
+   "id": "87726_uk-UA",
+   "isValid": "",
+   "prompt": "Яким воно буде?",
+   "scenario": "Ти намагаєшся придумати собі веселе прізвисько.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87727_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за бренд?",
+   "scenario": "У тебе є шанс стати амбасадором улюбленого бренду.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87728_uk-UA",
+   "isValid": "",
+   "prompt": "Кого ии викликаєте?",
+   "scenario": "Всі викликають привидів на домашній спіритичний сеанс.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87729_uk-UA",
+   "isValid": "",
+   "prompt": "Чим прикрашений твій?",
+   "scenario": "Квартиранти випускають пару, прикрашаючи торти.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87730_uk-UA",
+   "isValid": "",
+   "prompt": "Що ви намалюєте?",
+   "scenario": "Час брати акварельні фарби і малювати свою внутрішню сутність.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87731_uk-UA",
+   "isValid": "",
+   "prompt": "Яке твоє?",
+   "scenario": "Люди дістають свої паспорти і показують свої дивні імена.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87732_uk-UA",
+   "isValid": "",
+   "prompt": "Як він називається?",
+   "scenario": "У тебе є танцювальний рух, який ви намагаєтеся виконати.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87733_uk-UA",
+   "isValid": "",
+   "prompt": "Який унікальний талант ти продемонструєш?",
+   "scenario": "Домашнє шоу талантів!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87735_uk-UA",
+   "isValid": "",
+   "prompt": "Які у тебе?",
+   "scenario": "Всі зібралися коло вогнища і діляться своїми секретними навичками.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87736_uk-UA",
+   "isValid": "",
+   "prompt": "А зараз напиши перше слово, про яке ти подумав.",
+   "scenario": "Подумай про те, що сталося в грі до цього моменту.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87737_uk-UA",
+   "isValid": "",
+   "prompt": "Якби ти створив шоколадний батончик, як би він називався?",
+   "scenario": "Ти засидівся на кухні до пізнього нічного перекусу.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87738_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти кричиш?",
+   "scenario": "Ти вдаєш, що кричиш уві сні, щоб нагнати драми.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87739_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти з'їси, навіть якщо на нього попав пісок?",
+   "scenario": "Пікнік на пляжі!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87740_uk-UA",
+   "isValid": "",
+   "prompt": "Чим ти наповнив басейн замість води?",
+   "scenario": "Вечірка в басейні!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87741_uk-UA",
+   "isValid": "",
+   "prompt": "Який образ обрав ти?",
+   "scenario": "Всі роблять дикі зачіски!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87742_uk-UA",
+   "isValid": "",
+   "prompt": "Який смайлик найкраще всього відібражає твоє перебування в домі?",
+   "scenario": "Час терапії смайликами!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87743_uk-UA",
+   "isValid": "",
+   "prompt": "Тобі здається, що ти чуєш, як кит щось шепче тобі. Що він каже?",
+   "scenario": "Увесь дім відправляється спостерігати за китами.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87745_uk-UA",
+   "isValid": "",
+   "prompt": "Яку тваринку ти хочеш приручити і чому?",
+   "scenario": "В домі день екзотичних тварин!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87748_uk-UA",
+   "isValid": "",
+   "prompt": "Який інструмент або роль ти вибереш?",
+   "scenario": "Всі з нетерпінням чекають домашній маршируючий оркестр.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87750_uk-UA",
+   "isValid": "",
+   "prompt": "Яку огидну їжу ти добавиш до списку?",
+   "scenario": "Настав час змагання огидної їжі.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87751_uk-UA",
+   "isValid": "",
+   "prompt": "Швидко придумай фальшиве сузір'я.",
+   "scenario": "Всі на даху дивляться на сузір'я, такі як Оріон... але ти їх не знаєш.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87753_uk-UA",
+   "isValid": "",
+   "prompt": "За кого із знаменитостей ти б одружився без зайвих запитаннь?",
+   "scenario": "Всі в підвалі обговорюють закоханності знаменитостей.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87754_uk-UA",
+   "isValid": "",
+   "prompt": "Що тобі найбільше всього подобалося в школі?",
+   "scenario": "В домі згадують шкільні роки!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87859_uk-UA",
+   "isValid": "",
+   "prompt": "Яка традиція тобі подобається найбільше?",
+   "scenario": "Сьогодні у домі Різдво!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87860_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти додаси в свій смузі, щоб зробити його ідеальним?",
+   "scenario": "Всі готують смузі в Смузі-юрті.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87866_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти будеш вибиратись?",
+   "scenario": "Ти вже третій день знаходишся у садовому лабіринті і готовий на все, щоб вибратися звідти.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87867_uk-UA",
+   "isValid": "",
+   "prompt": "Яку скульптуру робиш ти?",
+   "scenario": "В морозилці всі роблять льодові скульптури.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "87868_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти прокричиш під час свого стрибка?",
+   "scenario": "Всі стрибають на тарзанці з даху будинку!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88091_uk-UA",
+   "isValid": "",
+   "prompt": "Назви своє саме складне кавове замовлення.",
+   "scenario": "Перерва на каву!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88110_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти їх з'їси?",
+   "scenario": "Джекпот! Ти щойно знайшов 200 варених яєць в холодильнику.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88121_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти плануєш з цим боротися?",
+   "scenario": "Тьху! На кухні знову літає голуб.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88140_uk-UA",
+   "isValid": "",
+   "prompt": "Які риси допоможуть тобі провести інших через світ дикої природи?",
+   "scenario": "Час для походу на природу!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88246_uk-UA",
+   "isValid": "",
+   "prompt": "У якому фільмі і кого ти зіграв?",
+   "scenario": "Квартиранти дізналися про твою невелику роль у фільмі!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88248_uk-UA",
+   "isValid": "",
+   "prompt": "Де твоє таємне місце для відпочинку?",
+   "scenario": "Лі-і-ни-и-ива субота в домі!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88249_uk-UA",
+   "isValid": "",
+   "prompt": "Який продукт обереш ти?",
+   "scenario": "Ви всі стали частиною інтернет-тренду, де потрібно їсти один і той самий продукт протягом тижня.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88252_uk-UA",
+   "isValid": "",
+   "prompt": "Яку пісню ти поставиш, щоб здивувати всіх?",
+   "scenario": "Ти діджей на домашній дискотеці.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88264_uk-UA",
+   "isValid": "",
+   "prompt": "Що це за слово?",
+   "scenario": "Вигадайте слово, яким можна описати себе о 8:30 ранку.",
+   "x": false
+  },
+  {
+   "countrySpecific": true,
+   "id": "88265_uk-UA",
+   "isValid": "",
+   "prompt": "Яку посаду в уряді ти обійняв би?",
+   "scenario": "Припустимо, Президент хоче, щоб ти обійняв посаду в уряді.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88312_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти будеш збирати?",
+   "scenario": "До будинку приїхала ціла вантажівка меблів IKEA.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88314_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти кинеш на це морозиво?",
+   "scenario": "Час для змагання \"гігантське морозиво\" у великій залі.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88315_uk-UA",
+   "isValid": "",
+   "prompt": "Кого ти викличеш?",
+   "scenario": "Голос з підземелля будинку говорить, що ти можеш викликати в дім будь-яку знаменитість.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88360_uk-UA",
+   "isValid": "",
+   "prompt": "З якою начинкою твої млинці?",
+   "scenario": "У будинку проходить млинцевий конкурс, і ти викладаєшся на повну.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88472_uk-UA",
+   "isValid": "",
+   "prompt": "Який предмет одягу ти попросиш її пошити?",
+   "scenario": "Хтось із кваритрантів знайшов чарівну прядку у вежі будинку!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88473_uk-UA",
+   "isValid": "",
+   "prompt": "Запропонуй їм продукт, який вони могли б профінансувати.",
+   "scenario": "У будинок прийшла команда можних знаменитостей!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88483_uk-UA",
+   "isValid": "",
+   "prompt": "Хто ж це?",
+   "scenario": "Оце так! Наш садівник виявився зіркою під прикриттям!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88558_uk-UA",
+   "isValid": "",
+   "prompt": "Яку пораду він тобі дав?",
+   "scenario": "Так, схоже, що мармуровий бюст генерала Гюнтера Квартиранга у фоє... почав говорити.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88592_uk-UA",
+   "isValid": "",
+   "prompt": "Скоріш за все, ви були б відзначені як \"Найбільш схильний до...\"",
+   "scenario": "Уявіть, що ви знову в школі.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88595_uk-UA",
+   "isValid": "",
+   "prompt": "Яку назву ти запропонуєш?",
+   "scenario": "Нам потрібна більш гарна назва для \"шумної кімнати\".",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88685_uk-UA",
+   "isValid": "",
+   "prompt": "Яку тварину ти візьмеш?",
+   "scenario": "Кожен може забрати на ніч одну тварину із зоопарку.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88717_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти зобразиш?",
+   "scenario": "Усі роблять малюнки на каві!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88719_uk-UA",
+   "isValid": "",
+   "prompt": "Якщо б дім створив гурт, як би ти його назвав?",
+   "scenario": "Музична імпровізація біля багаття була [i]крутою[/i]!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88722_uk-UA",
+   "isValid": "",
+   "prompt": "На чому ти зосереджений під час тренування?",
+   "scenario": "Усі зайнялися швидким тренуванням у тренажерному залі.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "88725_uk-UA",
+   "isValid": "",
+   "prompt": "Як називається придумана тобою поза?",
+   "scenario": "Кожен квартирант по-своєму займається йогою.",
+   "x": true
+  },
+  {
+   "countrySpecific": false,
+   "id": "88774_uk-UA",
+   "isValid": "",
+   "prompt": "Придумай назву інді-гурту, щоб вписатись!",
+   "scenario": "У пральні всі говорять про інді-музику.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89012_uk-UA",
+   "isValid": "",
+   "prompt": "Яку роль ти будеш грати в ньому?",
+   "scenario": "Пограбування! Пограбування! Прийшов час пограбування!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89049_uk-UA",
+   "isValid": "",
+   "prompt": "Яку пісню ви запропонуєте?",
+   "scenario": "Вас попросили заспівати з купою знаменитостей, щоб згадати \"важких часів\".",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89146_uk-UA",
+   "isValid": "",
+   "prompt": "На що схожий твій?",
+   "scenario": "Конкурс випічки! Усі печуть торти, які виглядають як щось інше.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89147_uk-UA",
+   "isValid": "",
+   "prompt": "Який обов'язок виконуєш ти?",
+   "scenario": "Будинок сам себе не прибере. У кожного є свій обов'язок.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89243_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти будеш палити замість них?",
+   "scenario": "Сьогодні прохолодно! У будинку є великий камін, але в нас немає дров.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89244_uk-UA",
+   "isValid": "",
+   "prompt": "На яку частину ти претендуєш?",
+   "scenario": "Ти можеш позначити одну частину будинку як \"недоступну\" для інших.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89261_uk-UA",
+   "isValid": "",
+   "prompt": "Який тип у тебе?",
+   "scenario": "Кожен пройшов тест із журналу, щоб дізнатися свій \"тип особистості\".",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89264_uk-UA",
+   "isValid": "",
+   "prompt": "Якої?",
+   "scenario": "У будинку може бути нескінченний запас ОДНОЇ РЕЧІ.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89265_uk-UA",
+   "isValid": "",
+   "prompt": "Як ви будете допомагати домашньому господарству?",
+   "scenario": "Фермерський тиждень.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89266_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти ніколи не робив?",
+   "scenario": "У домі звучить пісня \"Я ніколи...\".",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89288_uk-UA",
+   "isValid": "",
+   "prompt": "З якою мультяшною твариною ти себе порівнюєш?",
+   "scenario": "Лінива субота! Всі дивляться мультики на горищі.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89289_uk-UA",
+   "isValid": "",
+   "prompt": "Яку унікальну суперсилу ви хотіли б мати?",
+   "scenario": "Всі сидять в їдальні та говорять про надздібності.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89388_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти любиш готувати картоплю?",
+   "scenario": "Усі сидять у Дзеркальній кімнаті й розмовляють про картоплю.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89390_uk-UA",
+   "isValid": "",
+   "prompt": "Як ти хочеш провести \"вічність\"?",
+   "scenario": "Усі сидять у планетарії і базікають про загробне життя.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89451_uk-UA",
+   "isValid": "",
+   "prompt": "Якби ти міг бути кухонним приладдям, яким предметом ти б був?",
+   "scenario": "Усі тусуються на кухні.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89518_uk-UA",
+   "isValid": "",
+   "prompt": "Які надихаючі слова ти скажеш?",
+   "scenario": "Усі просять тебе сказати тост перед великою домашньою трапезою.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89770_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти робитимеш зі своєю?",
+   "scenario": "Кожен у будинку отримує кувалду.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89772_uk-UA",
+   "isValid": "",
+   "prompt": "Що Вам найбільше сподобалося?",
+   "scenario": "Домашній Книжковий Клуб! Хапайте свій примірник [i]Кайдашевої сім'ї[/i]!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89773_uk-UA",
+   "isValid": "",
+   "prompt": "Що вона передбачила тобі?",
+   "scenario": "У фоє з'явилася машина, яка пророкує, як ти помреш!",
+   "x": true
+  },
+  {
+   "countrySpecific": false,
+   "id": "89796_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти одягнеш?",
+   "scenario": "Дім влаштовує вечірку \"Носи що завгодно, крім одягу\"!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89951_uk-UA",
+   "isValid": "",
+   "prompt": "Що там?",
+   "scenario": "Всі почали уникати кімнати в кінці коридору.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "89952_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти додаси у кульову яму, щоб надати їй пікантності?",
+   "scenario": "Басейн із кульками в будинку спочатку здавався кумедним, але він уже встиг набриднути.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90060_uk-UA",
+   "isValid": "",
+   "prompt": "Розкрийте нам ОДИН секрет зі своєї буденності.",
+   "scenario": "Всі біля ставка з золотими рибками діляться порадами щодо краси.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90118_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти чуєш?",
+   "scenario": "У кабінеті задзвонив загадковий червоний телефон. Ти набрався мужності відповісти.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90155_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти пропонуєш?",
+   "scenario": "Напруга зростає, і квартирантам треба заспокоїтися.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90355_uk-UA",
+   "isValid": "",
+   "prompt": "На якому інструменті ти будеш грати?",
+   "scenario": "Тиждень шумового оркестру.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90356_uk-UA",
+   "isValid": "",
+   "prompt": "Куди він веде?",
+   "scenario": "Ти знайшов таємний хід у будинку!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90368_uk-UA",
+   "isValid": "",
+   "prompt": "Що всі вигукують в кінці вашого вітання?",
+   "scenario": "Під час тижня чирлідингу всі наполегливо працюють.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90375_uk-UA",
+   "isValid": "",
+   "prompt": "Якої особливої навички ти його навчиш?",
+   "scenario": "Домашній робот Роборанг потребує оновлення.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90376_uk-UA",
+   "isValid": "",
+   "prompt": "Що мають квартиранти використовувати менш за все, щоб зекономити?",
+   "scenario": "Податковий тиждень! Зберіться всі разом, у нас податковий тиждень!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90400_uk-UA",
+   "isValid": "",
+   "prompt": "Яку частину роботи виконуєш ти?",
+   "scenario": "Ковдра для дому Квартиранга майже готова.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90413_uk-UA",
+   "isValid": "",
+   "prompt": "У що одягнена твоя собака?",
+   "scenario": "Собаки всіх квартирантів беруть участь у модному показі.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90414_uk-UA",
+   "isValid": "",
+   "prompt": "Що знаходиться всередині неї?",
+   "scenario": "Ти досліджуєш горище в будинку Квартиранга і знаходиш скриню зі скарбами!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90497_uk-UA",
+   "isValid": "",
+   "prompt": "Чого ти бажаєш?",
+   "scenario": "Сантехнік Джині, що живе під будинком, пропонує вам виконати одне бажання!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90498_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти продаєш?",
+   "scenario": "Час влаштуватися комівояжером і заробити грошей на новий дах!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90675_uk-UA",
+   "isValid": "",
+   "prompt": "Що на ньому має бути?",
+   "scenario": "Усі придумують герб будинку Квартиранга.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90721_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти будеш робити, щоб не взаємодіяти з усіма?",
+   "scenario": "З тебе досить цих людей.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90722_uk-UA",
+   "isValid": "",
+   "prompt": "На чому ти заробляєш, крім зйомок?",
+   "scenario": "Ніхто більше не знає про твої таємні справи, які ти ведеш за межами дому Квартиранга!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90729_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти пишеш?",
+   "scenario": "Ти не любиш конфлікти, тому виписуєш щось макаронами на кухонному столі.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90835_uk-UA",
+   "isValid": "",
+   "prompt": "Що саме?",
+   "scenario": "Ти поклав своє найцінніше майно в домашній сейф.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "90836_uk-UA",
+   "isValid": "",
+   "prompt": "Що ви будете вишивати, щоб вразити Тіну Кароль?",
+   "scenario": "Тіна Кароль буде гостем-суддею конкурсу вишиванок.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "92058_uk-UA",
+   "isValid": "",
+   "prompt": "Швидше, придумай якусь команду просто зараз!",
+   "scenario": "У трофейній кімнаті всі говорять про свою улюблену спортивну команду, але ви не знаєте жодної з них.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93195_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти з неї зробиш?",
+   "scenario": "Це тиждень джинсової тканини, і всі отримали велику купу джинсової тканини.",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93465_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти крикнеш в першу чергу?",
+   "scenario": "Під час шторму відрубало світло, і весь будинок занурився в темряву!",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93466_uk-UA",
+   "isValid": "",
+   "prompt": "Що ти додаси?",
+   "scenario": "Кожен може додати один інгредієнт до домашнього \"таємничого супу\".",
+   "x": false
+  },
+  {
+   "countrySpecific": false,
+   "id": "93467_uk-UA",
+   "isValid": "",
+   "prompt": "Що з тобою там трапилось?",
+   "scenario": "У кожного був свій досвід перебування в домашній барокамері.",
+   "x": false
+  }
+ ]
+}
